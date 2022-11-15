@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+LY-Project/PICO Classification/WordCloudGeneratore.py
+PICO Classification/.ipynb_checkpoints/
+PICO Classification/Kiddo Main.ipynb
+PICO Classification/test.py
+PICO Classification/~$dataset.xlsx
