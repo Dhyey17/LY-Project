@@ -1,0 +1,3754 @@
+Processing 00000000.tx.1: The patient presents with severe chest pain and shortness of breath, which may indicate a cardiac event. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: presents with severe chest pain
+Meta Mapping (761):
+   760   C0150312:Present [Quantitative Concept]
+   797   C0278140:Severe pain [Sign or Symptom]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (761):
+   760   C0150312:Present [Quantitative Concept]
+   797   C0278140:Severe pain [Sign or Symptom]
+   760   C0817096:Chest [Body Location or Region]
+Meta Mapping (761):
+   760   C0150312:Present [Quantitative Concept]
+   760   C0205082:Severe (Severe (severity modifier)) [Qualitative Concept]
+   806   C0008031:Chest Pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C0150312:Present [Quantitative Concept]
+   760   C0205082:Severe (Severe (severity modifier)) [Qualitative Concept]
+   806   C2926613:Chest pain (Chest pain:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (761):
+   760   C0449450:Present (Presentation) [Idea or Concept]
+   797   C0278140:Severe pain [Sign or Symptom]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (761):
+   760   C0449450:Present (Presentation) [Idea or Concept]
+   797   C0278140:Severe pain [Sign or Symptom]
+   760   C0817096:Chest [Body Location or Region]
+Meta Mapping (761):
+   760   C0449450:Present (Presentation) [Idea or Concept]
+   760   C0205082:Severe (Severe (severity modifier)) [Qualitative Concept]
+   806   C0008031:Chest Pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C0449450:Present (Presentation) [Idea or Concept]
+   760   C0205082:Severe (Severe (severity modifier)) [Qualitative Concept]
+   806   C2926613:Chest pain (Chest pain:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C0013404:Shortness of Breath (Dyspnea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a cardiac event.
+Meta Mapping (1000):
+  1000   C0741923:cardiac event [Disease or Syndrome]
+Processing 00000000.tx.2: The biopsy results showed abnormal growth of cells in the liver, indicating the possibility of liver cancer. 
+
+Phrase: The biopsy results
+Meta Mapping (872):
+   861   C0005558:Biopsy [Diagnostic Procedure]
+   827   C2825142:Result (Experimental Result) [Finding]
+Meta Mapping (872):
+   861   C0005558:Biopsy [Diagnostic Procedure]
+   827   C1274040:Result [Functional Concept]
+Meta Mapping (872):
+   861   C0005558:Biopsy [Diagnostic Procedure]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+Meta Mapping (872):
+   861   C0220797:biopsy (biopsy characteristics) [Functional Concept]
+   827   C2825142:Result (Experimental Result) [Finding]
+Meta Mapping (872):
+   861   C0220797:biopsy (biopsy characteristics) [Functional Concept]
+   827   C1274040:Result [Functional Concept]
+Meta Mapping (872):
+   861   C0220797:biopsy (biopsy characteristics) [Functional Concept]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: abnormal growth of cells
+Meta Mapping (908):
+   604   C0205161:Abnormal [Qualitative Concept]
+   898   C0007595:growth of cell (Cell Growth) [Cell Function]
+Meta Mapping (908):
+   604   C2699333:ABNORMAL (Abnormal Reference Range) [Intellectual Product]
+   898   C0007595:growth of cell (Cell Growth) [Cell Function]
+Meta Mapping (908):
+   604   C2347472:% Abnormal (Percent of Abnormal Cells) [Quantitative Concept]
+   898   C0007595:growth of cell (Cell Growth) [Cell Function]
+
+Phrase: in the liver,
+Meta Mapping (1000):
+  1000   C1278929:Liver (Entire liver) [Body Part, Organ, or Organ Component]
+Meta Mapping (1000):
+  1000   C0023884:Liver [Body Part, Organ, or Organ Component]
+Meta Mapping (1000):
+  1000   C2346688:LIVER (Liver Flavor) [Food]
+Meta Mapping (1000):
+  1000   C0736268:LIVER (Liver parenchyma) [Body Part, Organ, or Organ Component]
+
+Phrase: indicating
+
+Phrase: the possibility of liver cancer.
+Meta Mapping (914):
+   688   C0332149:Possible [Qualitative Concept]
+   706   C0279000:Cancer of the Liver (Liver and Intrahepatic Biliary Tract Carcinoma) [Neoplastic Process]
+Meta Mapping (914):
+   688   C0332149:Possible [Qualitative Concept]
+   706   C0345904:Cancer of the Liver (Malignant neoplasm of liver) [Neoplastic Process]
+Meta Mapping (914):
+   688   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   706   C0279000:Cancer of the Liver (Liver and Intrahepatic Biliary Tract Carcinoma) [Neoplastic Process]
+Meta Mapping (914):
+   688   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   706   C0345904:Cancer of the Liver (Malignant neoplasm of liver) [Neoplastic Process]
+Meta Mapping (914):
+   688   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   706   C0279000:Cancer of the Liver (Liver and Intrahepatic Biliary Tract Carcinoma) [Neoplastic Process]
+Meta Mapping (914):
+   688   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   706   C0345904:Cancer of the Liver (Malignant neoplasm of liver) [Neoplastic Process]
+Processing 00000000.tx.3: The patient is experiencing elevated levels of glucose in the blood, which may indicate the presence of diabetes. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: elevated levels of glucose
+Meta Mapping (783):
+   604   C3163633:Elevated [Qualitative Concept]
+   819   C0428548:glucose levels (Glucose level - finding) [Laboratory or Test Result]
+Meta Mapping (783):
+   604   C0205250:Elevated (High) [Qualitative Concept]
+   819   C0428548:glucose levels (Glucose level - finding) [Laboratory or Test Result]
+
+Phrase: in the blood,
+Meta Mapping (1000):
+  1000   C0005767:Blood [Tissue]
+Meta Mapping (1000):
+  1000   C0005768:blood (In Blood) [Body Substance]
+Meta Mapping (1000):
+  1000   C0229664:Blood (peripheral blood) [Body Substance]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of diabetes.
+Meta Mapping (708):
+   770   C0392148:Presence [Therapeutic or Preventive Procedure]
+   604   C0011847:Diabetes [Disease or Syndrome]
+Meta Mapping (708):
+   770   C0392148:Presence [Therapeutic or Preventive Procedure]
+   604   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+Processing 00000000.tx.4: The MRI revealed multiple lesions in the brain, which may indicate the presence of multiple sclerosis. 
+
+Phrase: The MRI
+Meta Mapping (1000):
+  1000   C1824234:MRI (C7orf49 gene) [Gene or Genome]
+Meta Mapping (1000):
+  1000   C0024485:MRI (Magnetic Resonance Imaging) [Diagnostic Procedure]
+
+Phrase: revealed
+Meta Mapping (1000):
+  1000   C0443289:Revealed [Qualitative Concept]
+
+Phrase: multiple lesions in the brain,
+Meta Mapping (745):
+   806   C0577305:Multiple lesions [Finding]
+   593   C0006104:Brain [Body Part, Organ, or Organ Component]
+Meta Mapping (745):
+   806   C0577305:Multiple lesions [Finding]
+   593   C1269537:Brain (Entire brain) [Body Part, Organ, or Organ Component]
+Meta Mapping (745):
+   593   C0439064:Multiple (Numerous) [Quantitative Concept]
+   797   C0221505:brain lesions (Lesion of brain) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of multiple sclerosis.
+Meta Mapping (745):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   640   C1417325:multiple sclerosis (MS gene) [Gene or Genome]
+Meta Mapping (745):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   640   C0026769:Multiple Sclerosis [Disease or Syndrome]
+Processing 00000000.tx.5: The patient has a history of hypertension and is currently experiencing a headache, which may indicate a hypertensive crisis. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of hypertension
+Meta Mapping (909):
+   909   C0455527:History of hypertension (H/O: hypertension) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: a headache,
+Meta Mapping (1000):
+  1000   C0018681:HEAD ACHE (Headache) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a hypertensive crisis.
+Meta Mapping (1000):
+  1000   C0020546:Hypertensive crisis [Disease or Syndrome]
+Processing 00000000.tx.6: The patient has been diagnosed with chronic obstructive pulmonary disease (COPD), which is a progressive respiratory condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with chronic obstructive pulmonary disease (COPD),
+Meta Mapping (842):
+   753   C0011900:Diagnosed (Diagnosis) [Finding]
+   882   C0024117:Pulmonary Disease, Chronic Obstructive (Chronic Obstructive Airway Disease) [Disease or Syndrome]
+Meta Mapping (842):
+   753   C0011900:Diagnosed (Diagnosis) [Finding]
+   882   C1847014:PULMONARY DISEASE, CHRONIC OBSTRUCTIVE (PULMONARY DISEASE, CHRONIC OBSTRUCTIVE, SEVERE EARLY-ONSET) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: a progressive respiratory condition.
+Meta Mapping (901):
+   660   C0205329:Progressive [Functional Concept]
+   901   C0035204:respiratory condition (Respiration Disorders) [Disease or Syndrome]
+Meta Mapping (901):
+   660   C0205329:Progressive [Functional Concept]
+   901   C0035242:respiratory condition (Respiratory Tract Diseases) [Disease or Syndrome]
+Meta Mapping (901):
+   913   C1335499:progressive condition (Progressive Disease) [Finding]
+   660   C1546767:Respiratory (Specimen Source Codes - Respiratory) [Intellectual Product]
+Meta Mapping (901):
+   913   C0677932:progressive condition (Progressive Neoplastic Disease) [Neoplastic Process]
+   660   C1546767:Respiratory (Specimen Source Codes - Respiratory) [Intellectual Product]
+Meta Mapping (901):
+   913   C3539781:progressive condition (Progressive cGVHD) [Disease or Syndrome]
+   660   C1546767:Respiratory (Specimen Source Codes - Respiratory) [Intellectual Product]
+Meta Mapping (901):
+   913   C1864985:progressive condition (Progressive disorder) [Finding]
+   660   C1546767:Respiratory (Specimen Source Codes - Respiratory) [Intellectual Product]
+Meta Mapping (901):
+   913   C1335499:progressive condition (Progressive Disease) [Finding]
+   660   C0521346:respiratory [Functional Concept]
+Meta Mapping (901):
+   913   C0677932:progressive condition (Progressive Neoplastic Disease) [Neoplastic Process]
+   660   C0521346:respiratory [Functional Concept]
+Meta Mapping (901):
+   913   C3539781:progressive condition (Progressive cGVHD) [Disease or Syndrome]
+   660   C0521346:respiratory [Functional Concept]
+Meta Mapping (901):
+   913   C1864985:progressive condition (Progressive disorder) [Finding]
+   660   C0521346:respiratory [Functional Concept]
+Processing 00000000.tx.7: The laboratory results showed elevated levels of white blood cells, which may indicate the presence of an infection. 
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: elevated levels of white blood cells,
+Meta Mapping (830):
+   697   C0750426:elevated white blood cells (White blood cell count increased (lab result)) [Finding]
+   753   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of an infection.
+Meta Mapping (844):
+   844   C0449970:Presence of infection [Finding]
+Processing 00000000.tx.8: The patient has a family history of breast cancer and is currently experiencing breast pain, which may warrant further investigation. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of breast cancer
+Meta Mapping (938):
+   938   C0559119:Family history of breast cancer [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: breast pain,
+Meta Mapping (1000):
+  1000   C0553713:BREAST PAIN (BREAST PAIN FEMALE) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0024902:Breast Pain (Mastodynia) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: warrant
+
+Phrase: further investigation.
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C1552578:investigation (Act Class - investigation) [Idea or Concept]
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C1261322:Investigation (Evaluation procedure) [Health Care Activity]
+Processing 00000000.tx.9: The patient has a history of rheumatoid arthritis and is currently experiencing joint pain and stiffness, which may indicate a flare-up of the condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of rheumatoid arthritis
+Meta Mapping (926):
+   926   C0455571:History of rheumatoid arthritis (H/O: rheumatoid arthritis) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: joint pain
+Meta Mapping (1000):
+  1000   C0003862:Joint Pain (Arthralgia) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963066:Joint pain (Joint Pain Adverse Event) [Finding]
+
+Phrase: and
+
+Phrase: stiffness,
+Meta Mapping (1000):
+  1000   C0427008:'Stiffness' (Stiffness) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a flare-up of the condition.
+Meta Mapping (672):
+   753   C3540542:Flare (Exacerbation of cGVHD) [Finding]
+   586   C0348080:Condition [Qualitative Concept]
+Meta Mapping (672):
+   753   C3540542:Flare (Exacerbation of cGVHD) [Finding]
+   586   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (672):
+   753   C3540542:Flare (Exacerbation of cGVHD) [Finding]
+   586   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (672):
+   753   C1517205:Flare [Sign or Symptom]
+   586   C0348080:Condition [Qualitative Concept]
+Meta Mapping (672):
+   753   C1517205:Flare [Sign or Symptom]
+   586   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (672):
+   753   C1517205:Flare [Sign or Symptom]
+   586   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.10: The electroencephalogram (EEG) showed abnormal brain wave activity, which may indicate the presence of epilepsy. 
+
+Phrase: The electroencephalogram (EEG)
+Meta Mapping (1000):
+  1000   C1547121:Electro-Encephalogram [Spatial Concept]
+Meta Mapping (1000):
+  1000   C1527380:Electroencephalogram [Laboratory or Test Result]
+Meta Mapping (1000):
+  1000   C0013819:Electroencephalogram (Electroencephalography) [Diagnostic Procedure]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: abnormal brain wave activity,
+Meta Mapping (861):
+   645   C0205161:Abnormal [Qualitative Concept]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C1421479:WAVE (WASF1 gene) [Gene or Genome]
+Meta Mapping (861):
+   645   C0205161:Abnormal [Qualitative Concept]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C0678544:wave (wave - physical agent) [Natural Phenomenon or Process]
+Meta Mapping (861):
+   645   C2699333:ABNORMAL (Abnormal Reference Range) [Intellectual Product]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C1421479:WAVE (WASF1 gene) [Gene or Genome]
+Meta Mapping (861):
+   645   C2699333:ABNORMAL (Abnormal Reference Range) [Intellectual Product]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C0678544:wave (wave - physical agent) [Natural Phenomenon or Process]
+Meta Mapping (861):
+   645   C2347472:% Abnormal (Percent of Abnormal Cells) [Quantitative Concept]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C1421479:WAVE (WASF1 gene) [Gene or Genome]
+Meta Mapping (861):
+   645   C2347472:% Abnormal (Percent of Abnormal Cells) [Quantitative Concept]
+   875   C0443158:Brain activity [Physiologic Function]
+   645   C0678544:wave (wave - physical agent) [Natural Phenomenon or Process]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of epilepsy.
+Meta Mapping (708):
+   770   C0392148:Presence [Therapeutic or Preventive Procedure]
+   604   C0014544:Epilepsy [Disease or Syndrome]
+Processing 00000000.tx.11: The patient has been diagnosed with stage 3 melanoma, which requires aggressive treatment to prevent metastasis. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with stage 3 melanoma,
+Meta Mapping (816):
+   760   C0011900:Diagnosed (Diagnosis) [Finding]
+   862   C0278882:stage 3 melanoma (stage III melanoma) [Neoplastic Process]
+
+Phrase: which
+
+Phrase: requires
+
+Phrase: aggressive treatment to
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (790):
+   660   C0001807:aggressive (Aggressive behavior) [Mental or Behavioral Dysfunction]
+   827   C0039798:treatment (therapeutic aspects) [Functional Concept]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (790):
+   660   C0580822:Aggressive (Aggressive course) [Temporal Concept]
+   827   C0039798:treatment (therapeutic aspects) [Functional Concept]
+
+Phrase: prevent
+Meta Mapping (1000):
+  1000   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: metastasis.
+Meta Mapping (1000):
+  1000   C2939420:metastasis (Metastatic Neoplasm) [Neoplastic Process]
+Meta Mapping (1000):
+  1000   C0027627:Metastasis (Neoplasm Metastasis) [Neoplastic Process]
+Meta Mapping (1000):
+  1000   C2939419:Metastasis (Secondary Neoplasm) [Neoplastic Process]
+Processing 00000000.tx.12: The echocardiogram revealed aortic stenosis, which may require surgical intervention to repair the valve. 
+
+Phrase: The echocardiogram
+Meta Mapping (1000):
+  1000   C2243117:Echocardiogram (Echocardiogram (image)) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C0013516:Echocardiogram (Echocardiography) [Diagnostic Procedure]
+
+Phrase: revealed
+Meta Mapping (1000):
+  1000   C0443289:Revealed [Qualitative Concept]
+
+Phrase: aortic stenosis,
+Meta Mapping (1000):
+  1000   C0003507:Aortic Stenosis (Aortic Valve Stenosis) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: require
+
+Phrase: surgical intervention to
+Meta Mapping (901):
+   901   C0549433:surgical intervention (Surgical intervention (finding)) [Finding]
+
+Phrase: repair
+Meta Mapping (1000):
+  1000   C0374711:Repair (Surgical repair) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C0043240:Repair, NOS (Wound Healing) [Organism Function]
+
+Phrase: the valve.
+Meta Mapping (1000):
+  1000   C0184252:VALVE (Medical Valves) [Medical Device]
+Meta Mapping (1000):
+  1000   C1704414:Valve (Valve Device Component) [Medical Device]
+Meta Mapping (1000):
+  1000   C1186983:Valve (anatomic valve) [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.13: The patient has a history of migraines and is currently experiencing visual disturbances, which may indicate the onset of a migraine episode. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of migraines
+Meta Mapping (898):
+   898   C0455512:History of migraine (H/O: migraine) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: visual disturbances,
+Meta Mapping (1000):
+  1000   C0547030:Visual disturbances (Visual disturbance) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the onset of a migraine episode.
+Meta Mapping (719):
+   753   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   586   C0149931:Migraine (Migraine Disorders) [Disease or Syndrome]
+   617   C0332189:Episode of [Temporal Concept]
+Processing 00000000.tx.14: The laboratory results showed low levels of vitamin D, which may indicate a deficiency and increase the risk of bone fractures. 
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: low levels of vitamin D,
+Meta Mapping (752):
+   593   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C3537249:vitamin D (D Vitamin) [Pharmacologic Substance]
+Meta Mapping (752):
+   593   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0014695:Vitamin D (Ergocalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0042866:Vitamin D [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C2936842:Vitamin D (Vitamin D [EPC]) [Pharmacologic Substance]
+Meta Mapping (752):
+   593   C0205251:low [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C3537249:vitamin D (D Vitamin) [Pharmacologic Substance]
+Meta Mapping (752):
+   593   C0205251:low [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0014695:Vitamin D (Ergocalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C0205251:low [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0042866:Vitamin D [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C0205251:low [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C2936842:Vitamin D (Vitamin D [EPC]) [Pharmacologic Substance]
+Meta Mapping (752):
+   593   C1550472:low (low confidentiality) [Idea or Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C3537249:vitamin D (D Vitamin) [Pharmacologic Substance]
+Meta Mapping (752):
+   593   C1550472:low (low confidentiality) [Idea or Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0014695:Vitamin D (Ergocalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C1550472:low (low confidentiality) [Idea or Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0042866:Vitamin D [Organic Chemical,Pharmacologic Substance,Vitamin]
+Meta Mapping (752):
+   593   C1550472:low (low confidentiality) [Idea or Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C2936842:Vitamin D (Vitamin D [EPC]) [Pharmacologic Substance]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a deficiency
+Meta Mapping (1000):
+  1000   C0011155:Deficiency [Functional Concept]
+Meta Mapping (1000):
+  1000   C0162429:Deficiency (Malnutrition) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1623416:deficiency (deficiency aspects) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: increase
+Meta Mapping (1000):
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: the risk of bone fractures.
+Meta Mapping (835):
+   760   C0035647:Risk [Qualitative Concept]
+   666   C0016658:Fracture of bone (Fracture) [Injury or Poisoning]
+Processing 00000000.tx.15: The patient has a family history of Alzheimer's disease and is experiencing memory loss, which may warrant further evaluation for the condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of Alzheimer's disease
+Meta Mapping (864):
+   864   C0850707:family history of disease (history (of) disease family) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: memory loss,
+Meta Mapping (1000):
+  1000   C0002622:Memory loss (Amnesia) [Mental or Behavioral Dysfunction]
+Meta Mapping (1000):
+  1000   C0751295:Memory Loss [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: warrant
+
+Phrase: further evaluation for the condition.
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C0220825:Evaluation [Functional Concept]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C0220825:Evaluation [Functional Concept]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C0220825:Evaluation [Functional Concept]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.16: The colonoscopy revealed polyps in the colon, which may indicate a precancerous condition. 
+
+Phrase: The colonoscopy revealed polyps in the colon,
+Meta Mapping (701):
+   581   C1548837:Colonoscopy (Consent Type - Colonoscopy) [Health Care Activity]
+   581   C0443289:Revealed [Qualitative Concept]
+   774   C0009376:Colon polyps (Colonic Polyps) [Anatomical Abnormality]
+Meta Mapping (701):
+   581   C0009378:colonoscopy [Diagnostic Procedure,Therapeutic or Preventive Procedure]
+   581   C0443289:Revealed [Qualitative Concept]
+   774   C0009376:Colon polyps (Colonic Polyps) [Anatomical Abnormality]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a precancerous condition.
+Meta Mapping (1000):
+  1000   C0032927:Precancerous Condition (Precancerous Conditions) [Neoplastic Process]
+Processing 00000000.tx.17: The patient has a history of asthma and is currently experiencing wheezing and shortness of breath, which may indicate an asthma exacerbation. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of asthma
+Meta Mapping (909):
+   909   C0455544:History of asthma (H/O: asthma) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: wheezing
+Meta Mapping (1000):
+  1000   C0043144:Wheezing [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C0013404:Shortness of Breath (Dyspnea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: an asthma exacerbation.
+Meta Mapping (1000):
+  1000   C0349790:asthma exacerbation (Exacerbation of asthma) [Finding]
+Processing 00000000.tx.18: The urinalysis showed the presence of protein in the urine, which may indicate kidney damage or disease. 
+
+Phrase: The urinalysis
+Meta Mapping (1000):
+  1000   C0042014:Urinalysis [Laboratory Procedure]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: the presence of protein
+Meta Mapping (708):
+   770   C0392148:Presence [Therapeutic or Preventive Procedure]
+   604   C0033684:Protein (Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: in the urine,
+Meta Mapping (1000):
+  1000   C0042037:urine (In Urine) [Functional Concept]
+Meta Mapping (1000):
+  1000   C2963137:Urine (Portion of urine) [Body Substance]
+Meta Mapping (1000):
+  1000   C0042036:Urine [Body Substance]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: kidney damage
+Meta Mapping (888):
+   861   C0227665:kidney (Both kidneys) [Body Part, Organ, or Organ Component]
+   861   C1883709:Damage [Functional Concept]
+Meta Mapping (888):
+   861   C0227665:kidney (Both kidneys) [Body Part, Organ, or Organ Component]
+   861   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+Meta Mapping (888):
+   861   C1278978:Kidney (Entire kidney) [Body Part, Organ, or Organ Component]
+   861   C1883709:Damage [Functional Concept]
+Meta Mapping (888):
+   861   C1278978:Kidney (Entire kidney) [Body Part, Organ, or Organ Component]
+   861   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+Meta Mapping (888):
+   861   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   861   C1883709:Damage [Functional Concept]
+Meta Mapping (888):
+   861   C0022646:Kidney [Body Part, Organ, or Organ Component]
+   861   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+Meta Mapping (888):
+   861   C1514845:KIDNEY (Renal Tissue) [Tissue]
+   861   C1883709:Damage [Functional Concept]
+Meta Mapping (888):
+   861   C1514845:KIDNEY (Renal Tissue) [Tissue]
+   861   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+
+Phrase: or
+
+Phrase: disease.
+Meta Mapping (1000):
+  1000   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.19: The patient has been diagnosed with bipolar disorder, which requires ongoing management with medication and therapy. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with bipolar disorder,
+Meta Mapping (783):
+   770   C0011900:Diagnosed (Diagnosis) [Finding]
+   833   C0005586:Bipolar Disorder [Mental or Behavioral Dysfunction]
+
+Phrase: which
+
+Phrase: requires
+
+Phrase: ongoing management with medication
+Meta Mapping (783):
+   604   C0549178:ONGOING (Continuous) [Idea or Concept]
+   819   C3469597:medication management (Administration of medication) [Health Care Activity]
+Meta Mapping (783):
+   604   C0549178:ONGOING (Continuous) [Idea or Concept]
+   819   C0150270:Medication Management [Health Care Activity]
+
+Phrase: and
+
+Phrase: therapy.
+Meta Mapping (1000):
+  1000   C0087111:Therapy (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1363945:Therapy (Therapy Object (animal model)) [Finding]
+Meta Mapping (1000):
+  1000   C0039798:therapy (therapeutic aspects) [Functional Concept]
+Processing 00000000.tx.20: The blood culture showed the presence of a bacterial infection, which requires targeted antibiotic treatment to eradicate the infection. 
+
+Phrase: The blood culture
+Meta Mapping (1000):
+  1000   C0200949:Blood culture [Laboratory Procedure]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: the presence of a bacterial infection,
+Meta Mapping (774):
+   820   C0449970:Presence of infection [Finding]
+   586   C0521009:Bacterial [Qualitative Concept]
+
+Phrase: which
+
+Phrase: requires
+
+Phrase: targeted antibiotic treatment to
+Meta Mapping (824):
+   645   C1521840:Targeted (Target) [Functional Concept]
+   861   C0199779:antibiotic treatment (Administration of antibiotic) [Therapeutic or Preventive Procedure]
+
+Phrase: eradicate
+
+Phrase: the infection.
+Meta Mapping (1000):
+  1000   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Processing 00000000.tx.21: The patient has a mass on their lung, which may be cancerous. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a mass on their lung,
+Meta Mapping (797):
+   797   C0149726:Lung mass [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: be
+
+Phrase: cancerous.
+Meta Mapping (928):
+   928   C0998265:Cancer (Cancer Genus) [Eukaryote]
+Meta Mapping (928):
+   928   C0006826:Cancer (Malignant Neoplasms) [Neoplastic Process]
+Meta Mapping (928):
+   928   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+Processing 00000000.tx.22: The patient has a high white blood cell count, which could indicate infection or inflammation. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a high white blood cell count,
+Meta Mapping (1000):
+  1000   C0750426:HIGH WHITE BLOOD CELL COUNT (White blood cell count increased (lab result)) [Finding]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: indicate
+
+Phrase: infection
+Meta Mapping (1000):
+  1000   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: inflammation.
+Meta Mapping (1000):
+  1000   C0021368:Inflammation [Pathologic Function]
+Processing 00000000.tx.23: The results of the imaging test were inconclusive, so further testing is necessary.
+
+Phrase: The results of the imaging test
+Meta Mapping (722):
+   586   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   783   C0456984:test results (Test Result) [Finding]
+Meta Mapping (722):
+   586   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   783   C0456984:test results (Test Result) [Finding]
+
+Phrase: were
+
+Phrase: inconclusive,
+Meta Mapping (1000):
+  1000   C1629507:Inconclusive (Inconclusive (qualifier value)) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0205258:Inconclusive (Indeterminate) [Idea or Concept]
+
+Phrase: so
+
+Phrase: further testing
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C0039593:Testing [Functional Concept]
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C0392366:testing (Tests (qualifier value)) [Intellectual Product]
+
+Phrase: is
+
+Phrase: necessary.
+Processing 00000000.tx.24: The patient has a history of fainting spells, but it is unclear what is causing them.
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of fainting spells,
+Meta Mapping (745):
+   760   C1705255:History (Concept History) [Conceptual Entity]
+   640   C1857221:Fainting spells [Finding]
+Meta Mapping (745):
+   760   C0019665:history (Historical aspects qualifier) [Intellectual Product]
+   640   C1857221:Fainting spells [Finding]
+Meta Mapping (745):
+   760   C0019664:History [Occupation or Discipline]
+   640   C1857221:Fainting spells [Finding]
+Meta Mapping (745):
+   760   C0262512:History, NOS (History of present illness) [Organism Attribute]
+   640   C1857221:Fainting spells [Finding]
+Meta Mapping (745):
+   760   C2004062:History (History of previous events) [Finding]
+   640   C1857221:Fainting spells [Finding]
+Meta Mapping (745):
+   760   C0262926:History (Medical History) [Finding]
+   640   C1857221:Fainting spells [Finding]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: unclear
+
+Phrase: what
+
+Phrase: is
+
+Phrase: causing
+Meta Mapping (1000):
+  1000   C0678227:Causing [Functional Concept]
+
+Phrase: them.
+Processing 00000000.tx.1: The patient is experiencing abdominal pain, which could be a symptom of many different conditions. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000   C0000737:Abdominal Pain [Sign or Symptom]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be
+
+Phrase: a symptom of many different conditions.
+Meta Mapping (661):
+   753   C1457887:Symptom, NOS (Symptoms) [Sign or Symptom]
+   586   C1705242:Different [Qualitative Concept]
+   553   C0348080:Condition [Qualitative Concept]
+Meta Mapping (661):
+   753   C1457887:Symptom, NOS (Symptoms) [Sign or Symptom]
+   586   C1705242:Different [Qualitative Concept]
+   553   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (661):
+   753   C1457887:Symptom, NOS (Symptoms) [Sign or Symptom]
+   586   C1705242:Different [Qualitative Concept]
+   553   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.2: The patient's blood pressure is elevated, but it is uncertain whether this is a chronic condition or a temporary spike. 
+
+Phrase: The patient's blood pressure
+Meta Mapping (901):
+   660   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   901   C0005823:Blood Pressure [Organism Function]
+Meta Mapping (901):
+   660   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   901   C1271104:Blood Pressure (Blood pressure finding) [Finding]
+Meta Mapping (901):
+   660   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   901   C1272641:Blood pressure (Systemic arterial pressure) [Finding]
+
+Phrase: is
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C3163633:Elevated [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: ,
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: this
+
+Phrase: is
+
+Phrase: a chronic condition
+Meta Mapping (1000):
+  1000   C0008679:chronic condition (Chronic disease) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: a temporary spike.
+Meta Mapping (694):
+   694   C3245481:temporary (EntityNameUseR2 <temporary>) [Intellectual Product]
+Meta Mapping (694):
+   694   C1548539:Temporary (Job Status - Temporary) [Idea or Concept]
+Meta Mapping (694):
+   694   C0205374:Temporary (Transitory) [Temporal Concept]
+Processing 00000000.tx.3: The patient has a lump in their breast, which may or may not be cancerous. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a lump in their breast,
+Meta Mapping (844):
+   844   C0024103:Lump in breast (Mass in breast) [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: or
+
+Phrase: may
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: be
+
+Phrase: cancerous.
+Meta Mapping (928):
+   928   C0998265:Cancer (Cancer Genus) [Eukaryote]
+Meta Mapping (928):
+   928   C0006826:Cancer (Malignant Neoplasms) [Neoplastic Process]
+Meta Mapping (928):
+   928   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+Processing 00000000.tx.4: The patient is experiencing fatigue, which could be a symptom of anemia, depression, or other conditions. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: fatigue,
+Meta Mapping (1000):
+  1000   C0015672:Fatigue [Sign or Symptom]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be
+
+Phrase: a symptom of anemia,
+Meta Mapping (708):
+   770   C1457887:Symptom, NOS (Symptoms) [Sign or Symptom]
+   604   C0002871:Anaemia (Anemia) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C1457887:Symptom, NOS (Symptoms) [Sign or Symptom]
+   604   C1000483:Anemia (Genus Anemia) [Plant]
+
+Phrase: depression,
+Meta Mapping (1000):
+  1000   C0344315:Depression (Depressed mood) [Finding]
+Meta Mapping (1000):
+  1000   C0460137:Depression (Depression motion) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0011581:Depression (Depressive disorder) [Mental or Behavioral Dysfunction]
+Meta Mapping (1000):
+  1000   C0349217:depression nos (Depressive episode, unspecified) [Mental or Behavioral Dysfunction]
+Meta Mapping (1000):
+  1000   C0011570:Depression (Mental Depression) [Mental or Behavioral Dysfunction]
+
+Phrase: or
+
+Phrase: other conditions.
+Meta Mapping (966):
+   966   C0348080:Condition [Qualitative Concept]
+Meta Mapping (966):
+   966   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (966):
+   966   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.5: The results of the blood test were abnormal, but it is unclear what is causing the abnormality. 
+
+Phrase: The results of the blood test
+Meta Mapping (820):
+   820   C0849535:blood test results (blood test result) [Laboratory or Test Result]
+
+Phrase: were
+
+Phrase: abnormal,
+Meta Mapping (1000):
+  1000   C0205161:Abnormal [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C2699333:ABNORMAL (Abnormal Reference Range) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C2347472:% Abnormal (Percent of Abnormal Cells) [Quantitative Concept]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: unclear
+
+Phrase: what
+
+Phrase: is
+
+Phrase: causing
+Meta Mapping (1000):
+  1000   C0678227:Causing [Functional Concept]
+
+Phrase: the abnormality.
+Meta Mapping (1000):
+  1000   C1704258:Abnormality [Finding]
+Processing 00000000.tx.6: The patient is experiencing joint pain, but it is uncertain whether this is due to arthritis or another condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: joint pain,
+Meta Mapping (1000):
+  1000   C0003862:Joint Pain (Arthralgia) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963066:Joint pain (Joint Pain Adverse Event) [Finding]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: this
+
+Phrase: is due to arthritis
+Meta Mapping (810):
+   833   C0678226:Due to [Functional Concept]
+   770   C0003864:Arthritis [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: another condition.
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.7: The patient has a rash on their skin, but it is unclear whether it is due to an allergy or an infection. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a rash on their skin,
+Meta Mapping (797):
+   797   C0015230:Skin Rash (Exanthema) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: unclear
+
+Phrase: whether
+
+Phrase: it
+
+Phrase: is due to an allergy
+Meta Mapping (745):
+   806   C0678226:Due to [Functional Concept]
+   760   C3539909:Allergy (Allergic disposition) [Disease or Syndrome]
+Meta Mapping (745):
+   806   C0678226:Due to [Functional Concept]
+   760   C0002111:Allergy (Allergy Specialty) [Biomedical Occupation or Discipline]
+Meta Mapping (745):
+   806   C0678226:Due to [Functional Concept]
+   760   C0489531:allergy (History of allergies) [Finding]
+Meta Mapping (745):
+   806   C0678226:Due to [Functional Concept]
+   760   C0020517:Allergy (Hypersensitivity) [Pathologic Function]
+Meta Mapping (745):
+   806   C0678226:Due to [Functional Concept]
+   760   C1314973:ALLERGY (Response to antigens) [Clinical Attribute]
+
+Phrase: or
+
+Phrase: an infection.
+Meta Mapping (1000):
+  1000   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Processing 00000000.tx.8: The patient has a history of headaches, but it is uncertain whether they are migraines or tension headaches. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of headaches,
+Meta Mapping (898):
+   898   C1960629:History of headache [Finding]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are
+
+Phrase: migraines
+Meta Mapping (1000):
+  1000   C0149931:MIGRAINES (Migraine Disorders) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: tension headaches.
+Meta Mapping (1000):
+  1000   C0033893:Tension Headaches (Tension Headache) [Disease or Syndrome]
+Processing 00000000.tx.9: The patient is experiencing shortness of breath, which could be due to asthma, COPD, or another respiratory condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C0013404:Shortness of Breath (Dyspnea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to asthma,
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   833   C0678226:Due to [Functional Concept]
+   770   C0004096:Asthma [Disease or Syndrome]
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   833   C0678226:Due to [Functional Concept]
+   770   C2984299:Asthma (Asthma Pathway) [Functional Concept]
+
+Phrase: COPD,
+Meta Mapping (1000):
+  1000   C0024117:COPD NOS (Chronic Obstructive Airway Disease) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: another respiratory condition.
+Meta Mapping (1000):
+  1000   C0035204:respiratory condition (Respiration Disorders) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C0035242:respiratory condition (Respiratory Tract Diseases) [Disease or Syndrome]
+Processing 00000000.tx.10: The patient is experiencing dizziness, which could be due to inner ear problems, low blood pressure, or other conditions. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000   C0012833:Dizziness [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963093:Dizziness (Dizziness Adverse Event) [Finding]
+Meta Mapping (1000):
+  1000   C0042571:dizziness (Vertigo) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to inner ear problems,
+Meta Mapping (839):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   753   C0205102:Inner (Internal) [Spatial Concept]
+   790   C0262174:ear problems (Ear problem) [Finding]
+Meta Mapping (839):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   790   C1268973:Inner ear (Entire inner ear) [Body Part, Organ, or Organ Component]
+   753   C1546466:Problems (Problems - What subject filter) [Idea or Concept]
+Meta Mapping (839):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   790   C0022889:Ear, Inner (Labyrinth) [Body Part, Organ, or Organ Component]
+   753   C1546466:Problems (Problems - What subject filter) [Idea or Concept]
+
+Phrase: low blood pressure,
+Meta Mapping (1000):
+  1000   C0020649:Blood Pressure, Low (Hypotension) [Finding]
+
+Phrase: or
+
+Phrase: other conditions.
+Meta Mapping (966):
+   966   C0348080:Condition [Qualitative Concept]
+Meta Mapping (966):
+   966   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (966):
+   966   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.11: The patient has a family history of heart disease, but it is unclear whether they are at high risk for the condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of heart disease,
+Meta Mapping (867):
+   864   C0850707:family history of disease (history (of) disease family) [Finding]
+   586   C1281570:Heart (Entire heart) [Body Part, Organ, or Organ Component]
+Meta Mapping (867):
+   864   C0850707:family history of disease (history (of) disease family) [Finding]
+   586   C0018787:Heart [Body Part, Organ, or Organ Component]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: unclear
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are at high risk
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C3272283:High Risk (American College of Cardiology/American Heart Association Lesion Complexity Score C) [Finding]
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C0332167:High Risk (High risk of) [Qualitative Concept]
+
+Phrase: for the condition.
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.12: The patient has a history of seizures, but it is uncertain whether they are due to epilepsy or another condition. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of seizures,
+Meta Mapping (708):
+   770   C1705255:History (Concept History) [Conceptual Entity]
+   604   C0036572:Seizures [Sign or Symptom]
+Meta Mapping (708):
+   770   C0019665:history (Historical aspects qualifier) [Intellectual Product]
+   604   C0036572:Seizures [Sign or Symptom]
+Meta Mapping (708):
+   770   C0019664:History [Occupation or Discipline]
+   604   C0036572:Seizures [Sign or Symptom]
+Meta Mapping (708):
+   770   C0262512:History, NOS (History of present illness) [Organism Attribute]
+   604   C0036572:Seizures [Sign or Symptom]
+Meta Mapping (708):
+   770   C2004062:History (History of previous events) [Finding]
+   604   C0036572:Seizures [Sign or Symptom]
+Meta Mapping (708):
+   770   C0262926:History (Medical History) [Finding]
+   604   C0036572:Seizures [Sign or Symptom]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are due to epilepsy
+Meta Mapping (861):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C0678226:Due to [Functional Concept]
+   770   C0014544:Epilepsy [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: another condition.
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.13: "The patient has a history of substance abuse, which may impact their treatment and recovery for other conditions." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of substance abuse,
+Meta Mapping (926):
+   926   C1299544:History of substance abuse [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: impact
+Meta Mapping (1000):
+  1000   C1825598:IMPACT (IMPACT gene) [Gene or Genome]
+
+Phrase: their treatment
+Meta Mapping (1000):
+  1000   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (1000):
+  1000   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (1000):
+  1000   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (1000):
+  1000   C0039798:treatment (therapeutic aspects) [Functional Concept]
+
+Phrase: and
+
+Phrase: recovery for other conditions."
+Meta Mapping (691):
+   770   C1555688:recovery (Recovery - ActInvoiceAdjudicationPaymentGroupCode) [Idea or Concept]
+   570   C0348080:Condition [Qualitative Concept]
+Meta Mapping (691):
+   770   C1555688:recovery (Recovery - ActInvoiceAdjudicationPaymentGroupCode) [Idea or Concept]
+   570   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (691):
+   770   C1555688:recovery (Recovery - ActInvoiceAdjudicationPaymentGroupCode) [Idea or Concept]
+   570   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (691):
+   770   C0237820:Recovery (Recovery - action) [Activity]
+   570   C0348080:Condition [Qualitative Concept]
+Meta Mapping (691):
+   770   C0237820:Recovery (Recovery - action) [Activity]
+   570   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (691):
+   770   C0237820:Recovery (Recovery - action) [Activity]
+   570   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (691):
+   770   C2004454:Recovery (Recovery - healing process) [Organism Function]
+   570   C0348080:Condition [Qualitative Concept]
+Meta Mapping (691):
+   770   C2004454:Recovery (Recovery - healing process) [Organism Function]
+   570   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (691):
+   770   C2004454:Recovery (Recovery - healing process) [Organism Function]
+   570   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.14: "The patient is experiencing numbness and tingling in their hands and feet, which may indicate a peripheral neuropathy." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: numbness
+Meta Mapping (1000):
+  1000   C0020580:Numbness (Hypesthesia) [Finding]
+Meta Mapping (1000):
+  1000   C0028643:Numbness [Sign or Symptom]
+
+Phrase: and
+
+Phrase: tingling in their hands
+Meta Mapping (802):
+   802   C0239836:hand tingling (Paresthesia of hand) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feet,
+Meta Mapping (1000):
+  1000   C0347981:feet (Feet, unit of measurement) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C0016504:Feet (Foot) [Body Part, Organ, or Organ Component]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a peripheral neuropathy."
+Meta Mapping (1000):
+  1000   C0031117:Peripheral Neuropathy [Disease or Syndrome]
+Processing 00000000.tx.15: "The patient has been diagnosed with osteoporosis, which increases their risk of bone fractures." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with osteoporosis,
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0029456:Osteoporosis [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: increases
+Meta Mapping (1000):
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: their risk of bone fractures."
+Meta Mapping (835):
+   760   C0035647:Risk [Qualitative Concept]
+   666   C0016658:Fracture of bone (Fracture) [Injury or Poisoning]
+Processing 00000000.tx.16: "The laboratory results showed elevated levels of thyroid hormones, which may indicate hyperthyroidism." 
+
+Phrase: "
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: elevated levels of thyroid hormones,
+Meta Mapping (752):
+   593   C3163633:Elevated [Qualitative Concept]
+   593   C0040132:Thyroid, NOS (Thyroid Gland) [Body Part, Organ, or Organ Component]
+   797   C1287355:hormones levels (Finding of hormone level) [Laboratory or Test Result]
+Meta Mapping (752):
+   593   C3163633:Elevated [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0040135:Thyroid Hormones [Amino Acid, Peptide, or Protein,Hormone]
+Meta Mapping (752):
+   593   C0205250:Elevated (High) [Qualitative Concept]
+   593   C0040132:Thyroid, NOS (Thyroid Gland) [Body Part, Organ, or Organ Component]
+   797   C1287355:hormones levels (Finding of hormone level) [Laboratory or Test Result]
+Meta Mapping (752):
+   593   C0205250:Elevated (High) [Qualitative Concept]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   640   C0040135:Thyroid Hormones [Amino Acid, Peptide, or Protein,Hormone]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: hyperthyroidism."
+Meta Mapping (1000):
+  1000   C0020550:Hyperthyroidism [Disease or Syndrome]
+Processing 00000000.tx.17: "The patient has a history of heart failure and is currently experiencing difficulty breathing, which may indicate a worsening of their condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of heart failure
+Meta Mapping (926):
+   926   C0455531:History of heart failure (H/O: heart failure) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: difficulty breathing,
+Meta Mapping (1000):
+  1000   C0013404:Difficulty breathing (Dyspnea) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a worsening of their condition."
+Meta Mapping (686):
+   760   C1546960:Worsening (Patient Outcome - Worsening) [Idea or Concept]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (686):
+   760   C1546960:Worsening (Patient Outcome - Worsening) [Idea or Concept]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (686):
+   760   C1546960:Worsening (Patient Outcome - Worsening) [Idea or Concept]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (686):
+   760   C1457868:Worsening (Worse) [Finding]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (686):
+   760   C1457868:Worsening (Worse) [Finding]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (686):
+   760   C1457868:Worsening (Worse) [Finding]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (686):
+   760   C0332271:Worsening (Worsening pattern) [Qualitative Concept]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (686):
+   760   C0332271:Worsening (Worsening pattern) [Qualitative Concept]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (686):
+   760   C0332271:Worsening (Worsening pattern) [Qualitative Concept]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.18: "The patient has a family history of colon cancer and is over 50 years old, which makes them a candidate for colonoscopy screening." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of colon cancer
+Meta Mapping (867):
+   864   C0260515:Family history of cancer [Finding]
+   586   C0009368:Colon (Colon structure (body structure)) [Body Part, Organ, or Organ Component]
+Meta Mapping (867):
+   864   C0260515:Family history of cancer [Finding]
+   586   C1281569:Colon (Entire colon) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: over 50 years old,
+Meta Mapping (775):
+   645   C0205136:Over (Over (spatial)) [Spatial Concept]
+   645   C0439234:years (year) [Temporal Concept]
+   812   C0580836:Old [Temporal Concept]
+
+Phrase: which
+
+Phrase: makes
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: them a candidate for colonoscopy screening."
+Meta Mapping (623):
+   617   C1882982:Screening colonoscopy [Diagnostic Procedure]
+Processing 00000000.tx.19: "The imaging test showed a herniated disc in the patient's spine, which may be causing their back pain and sciatica symptoms." 
+
+Phrase: "
+
+Phrase: The imaging test
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: a herniated disc in the patient's spine,
+Meta Mapping (696):
+   778   C0242362:Disc, Herniated (Disk, Herniated) [Acquired Abnormality]
+   581   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   581   C1267072:Spine (Entire vertebral column) [Body Part, Organ, or Organ Component]
+Meta Mapping (696):
+   778   C0242362:Disc, Herniated (Disk, Herniated) [Acquired Abnormality]
+   581   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   581   C2752558:spine (Neuron spine) [Cell Component]
+Meta Mapping (696):
+   778   C0242362:Disc, Herniated (Disk, Herniated) [Acquired Abnormality]
+   581   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   581   C0037949:Spine (Vertebral column) [Body Part, Organ, or Organ Component]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: be
+
+Phrase: causing
+Meta Mapping (1000):
+  1000   C0678227:Causing [Functional Concept]
+
+Phrase: their back pain
+Meta Mapping (1000):
+  1000   C0004604:BACKPAIN (Back Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963071:Back pain (Back Pain Adverse Event) [Finding]
+
+Phrase: and
+
+Phrase: sciatica symptoms."
+Meta Mapping (888):
+   694   C0036396:Sciatica [Sign or Symptom]
+   861   C1457887:Symptoms [Sign or Symptom]
+Meta Mapping (888):
+   694   C0036396:Sciatica [Sign or Symptom]
+   861   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Processing 00000000.tx.20: "The patient has a history of skin cancer and is experiencing a new mole that has changed in appearance, which may indicate a potential recurrence." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of skin cancer
+Meta Mapping (926):
+   926   C1998317:history of skin cancer (History of malignant neoplasm of skin) [Finding]
+Meta Mapping (926):
+   926   C1387403:history of skin cancer (Personal history of primary malignant neoplasm of skin) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: a new mole
+Meta Mapping (888):
+   694   C0205314:New [Temporal Concept]
+   861   C1456781:mole (Benign melanocytic nevus) [Neoplastic Process]
+Meta Mapping (888):
+   694   C0205314:New [Temporal Concept]
+   861   C1824986:mol (DUOXA1 gene) [Gene or Genome]
+Meta Mapping (888):
+   694   C0205314:New [Temporal Concept]
+   861   C0439189:Mole (Mole, unit of measurement) [Quantitative Concept]
+Meta Mapping (888):
+   694   C0205314:New [Temporal Concept]
+   861   C0027960:Mole (Nevus) [Neoplastic Process]
+Meta Mapping (888):
+   694   C0205314:New [Temporal Concept]
+   861   C0324740:Mole (Talpidae) [Mammal]
+
+Phrase: that
+
+Phrase: has
+
+Phrase: changed in appearance,
+Meta Mapping (746):
+   790   C0443172:Changed (Changed status) [Quantitative Concept]
+   790   C0700364:Appearance [Qualitative Concept]
+Meta Mapping (746):
+   790   C0443172:Changed (Changed status) [Quantitative Concept]
+   790   C0233426:Appearance (Personal appearance) [Organism Attribute]
+Meta Mapping (746):
+   790   C0392747:Changed (Changing) [Functional Concept]
+   790   C0700364:Appearance [Qualitative Concept]
+Meta Mapping (746):
+   790   C0392747:Changed (Changing) [Functional Concept]
+   790   C0233426:Appearance (Personal appearance) [Organism Attribute]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a potential recurrence."
+Meta Mapping (888):
+   694   C3245505:Potential [Qualitative Concept]
+   861   C0034897:Recurrence [Phenomenon or Process]
+Meta Mapping (888):
+   694   C3245505:Potential [Qualitative Concept]
+   861   C2825055:Recurrence (Recurrence (disease attribute)) [Pathologic Function]
+Meta Mapping (888):
+   694   C3245505:Potential [Qualitative Concept]
+   861   C1458156:recurrence (Recurrent Malignant Neoplasm) [Neoplastic Process]
+Processing 00000000.tx.21: "The patient is experiencing frequent urination and increased thirst, which may indicate diabetes or another underlying condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: frequent urination
+Meta Mapping (1000):
+  1000   C0042023:frequent urination (Increased frequency of micturition) [Finding]
+
+Phrase: and
+
+Phrase: increased
+Meta Mapping (1000):
+  1000   C0442805:Increased (Increase) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0205217:Increased [Quantitative Concept]
+
+Phrase: thirst,
+Meta Mapping (1000):
+  1000   C0039971:Thirst [Physiologic Function]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: diabetes
+Meta Mapping (1000):
+  1000   C0011847:Diabetes [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: another
+
+Phrase: underlying
+
+Phrase: condition."
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.22: "The patient has been diagnosed with depression and is currently experiencing thoughts of self-harm, which require immediate attention and intervention." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with depression
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0344315:Depression (Depressed mood) [Finding]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0460137:Depression (Depression motion) [Functional Concept]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0011581:Depression (Depressive disorder) [Mental or Behavioral Dysfunction]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0349217:depression nos (Depressive episode, unspecified) [Mental or Behavioral Dysfunction]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0011570:Depression (Mental Depression) [Mental or Behavioral Dysfunction]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently experiencing thoughts of
+Meta Mapping (750):
+   604   C0521116:Currently (Current (present time)) [Temporal Concept]
+   570   C0596545:Experience [Mental Process]
+   770   C0039869:Thoughts (Thinking, function) [Mental Process]
+Meta Mapping (750):
+   604   C0521116:Currently (Current (present time)) [Temporal Concept]
+   570   C0237607:experience (Practice Experience) [Mental Process]
+   770   C0039869:Thoughts (Thinking, function) [Mental Process]
+
+Phrase: self-harm
+Meta Mapping (1000):
+  1000   C0424366:Self-harm [Finding]
+
+Phrase: ,
+
+Phrase: which
+
+Phrase: require
+
+Phrase: immediate attention
+Meta Mapping (888):
+   694   C0205253:Immediate [Temporal Concept]
+   861   C0004268:Attention [Mental Process]
+Meta Mapping (888):
+   694   C0205548:Immediate (Stat (do immediately)) [Temporal Concept]
+   861   C0004268:Attention [Mental Process]
+
+Phrase: and
+
+Phrase: intervention."
+Meta Mapping (1000):
+  1000   C1273869:Intervention (Intervention regimes) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C0886296:intervention (Nursing interventions) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C1948041:Intervention (Surgical and medical procedures) [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.23: "The patient is experiencing muscle spasms and weakness, which may indicate a neurological disorder such as multiple sclerosis or ALS." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: muscle spasms
+Meta Mapping (1000):
+  1000   C0037763:Spasms, Muscle (Spasm) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: weakness,
+Meta Mapping (1000):
+  1000   C0004093:Weakness (Asthenia) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a neurological disorder such as multiple sclerosis
+Meta Mapping (724):
+   778   C0027765:Neurological disorder (nervous system disorder) [Disease or Syndrome]
+   612   C1417325:multiple sclerosis (MS gene) [Gene or Genome]
+Meta Mapping (724):
+   778   C0027765:Neurological disorder (nervous system disorder) [Disease or Syndrome]
+   612   C0026769:Multiple Sclerosis [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: ALS."
+Processing 00000000.tx.24: "The laboratory results showed low levels of iron and hemoglobin in the patient's blood, which may indicate anemia." 
+
+Phrase: "
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: low levels of iron
+Meta Mapping (783):
+   604   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   819   C0428578:iron levels (Iron level result) [Laboratory or Test Result]
+Meta Mapping (783):
+   604   C1299352:Low (Abnormally low (qualifier value)) [Qualitative Concept]
+   819   C0337439:iron levels (Iron measurement) [Laboratory Procedure]
+Meta Mapping (783):
+   770   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   652   C0860975:Iron low [Finding]
+Meta Mapping (783):
+   604   C0205251:low [Qualitative Concept]
+   819   C0428578:iron levels (Iron level result) [Laboratory or Test Result]
+Meta Mapping (783):
+   604   C0205251:low [Qualitative Concept]
+   819   C0337439:iron levels (Iron measurement) [Laboratory Procedure]
+Meta Mapping (783):
+   604   C1550472:low (low confidentiality) [Idea or Concept]
+   819   C0428578:iron levels (Iron level result) [Laboratory or Test Result]
+Meta Mapping (783):
+   604   C1550472:low (low confidentiality) [Idea or Concept]
+   819   C0337439:iron levels (Iron measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: hemoglobin in the patient's blood,
+Meta Mapping (696):
+   760   C0019046:Haemoglobin (Hemoglobin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   593   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   593   C0005767:Blood [Tissue]
+Meta Mapping (696):
+   760   C0019046:Haemoglobin (Hemoglobin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   593   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   593   C0005768:blood (In Blood) [Body Substance]
+Meta Mapping (696):
+   760   C0019046:Haemoglobin (Hemoglobin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   593   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   593   C0229664:Blood (peripheral blood) [Body Substance]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: anemia."
+Meta Mapping (1000):
+  1000   C0002871:Anaemia (Anemia) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1000483:Anemia (Genus Anemia) [Plant]
+Processing 00000000.tx.25: "The patient has a history of gastric ulcers and is currently experiencing abdominal pain and black stools, which may indicate a bleeding ulcer." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of gastric ulcers
+Meta Mapping (915):
+   915   C0559165:History of gastric ulcer (H/O: gastric ulcer) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: abdominal pain
+Meta Mapping (1000):
+  1000   C0000737:Abdominal Pain [Sign or Symptom]
+
+Phrase: and
+
+Phrase: black stools,
+Meta Mapping (1000):
+  1000   C0474585:Black stools (Feces color: tarry) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0025222:Black stools (Melena) [Pathologic Function]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a bleeding ulcer."
+Meta Mapping (1000):
+  1000   C0333291:Bleeding ulcer [Disease or Syndrome]
+Processing 00000000.tx.26: "The patient has a family history of Parkinson's disease and is currently experiencing tremors and difficulty with movement, which may indicate the onset of the condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of Parkinson's disease
+Meta Mapping (938):
+   938   C0574092:Family history of Parkinson's disease [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently experiencing tremors
+Meta Mapping (840):
+   660   C0521116:Currently (Current (present time)) [Temporal Concept]
+   627   C0596545:Experience [Mental Process]
+   827   C0040822:TREMORS (Tremor) [Sign or Symptom]
+Meta Mapping (840):
+   660   C0521116:Currently (Current (present time)) [Temporal Concept]
+   627   C0237607:experience (Practice Experience) [Mental Process]
+   827   C0040822:TREMORS (Tremor) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: difficulty with movement,
+Meta Mapping (746):
+   790   C1299586:Difficulty [Finding]
+   623   C0026649:Movement [Organism Function]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the onset of the condition."
+Meta Mapping (797):
+   797   C0277793:condition onset (Onset of illness) [Temporal Concept]
+Processing 00000000.tx.27: "The imaging test showed a mass in the patient's kidney, which may be cancerous and require further evaluation and treatment." 
+
+Phrase: "
+
+Phrase: The imaging test
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: a mass in the patient's kidney,
+Meta Mapping (722):
+   586   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   783   C0262613:Kidney mass (Renal mass) [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: be
+
+Phrase: cancerous
+Meta Mapping (928):
+   928   C0998265:Cancer (Cancer Genus) [Eukaryote]
+Meta Mapping (928):
+   928   C0006826:Cancer (Malignant Neoplasms) [Neoplastic Process]
+Meta Mapping (928):
+   928   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: require
+
+Phrase: further evaluation
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C0220825:Evaluation [Functional Concept]
+Meta Mapping (888):
+   694   C1517331:Further [Spatial Concept]
+   861   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+
+Phrase: and
+
+Phrase: treatment."
+Meta Mapping (1000):
+  1000   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (1000):
+  1000   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (1000):
+  1000   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (1000):
+  1000   C0039798:treatment (therapeutic aspects) [Functional Concept]
+Processing 00000000.tx.28: "The patient has been diagnosed with chronic kidney disease, which requires ongoing monitoring and management to prevent further damage to the kidneys." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with chronic kidney disease,
+Meta Mapping (816):
+   760   C0011900:Diagnosed (Diagnosis) [Finding]
+   862   C1561643:Chronic Kidney Disease (Chronic Kidney Diseases) [Disease or Syndrome]
+Meta Mapping (816):
+   760   C0011900:Diagnosed (Diagnosis) [Finding]
+   862   C0403447:Chronic kidney disease (Chronic Kidney Insufficiency) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: requires
+
+Phrase: ongoing monitoring
+Meta Mapping (888):
+   694   C0549178:ONGOING (Continuous) [Idea or Concept]
+   861   C1516647:monitoring (Clinical Trials, Monitoring) [Research Activity]
+Meta Mapping (888):
+   694   C0549178:ONGOING (Continuous) [Idea or Concept]
+   861   C0150369:Monitoring (Preventive monitoring) [Health Care Activity]
+
+Phrase: and
+
+Phrase: management to
+Meta Mapping (861):
+   861   C0001554:Management (Administration occupational activities) [Occupational Activity]
+Meta Mapping (861):
+   861   C0376636:management (Disease Management) [Health Care Activity]
+Meta Mapping (861):
+   861   C3273539:Management (Management Occupations) [Occupation or Discipline]
+Meta Mapping (861):
+   861   C1273870:Management (Management procedure) [Occupational Activity]
+
+Phrase: prevent
+Meta Mapping (1000):
+  1000   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: further damage to the kidneys."
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C1883709:Damage [Functional Concept]
+   593   C0227665:kidneys (Both kidneys) [Body Part, Organ, or Organ Component]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C1883709:Damage [Functional Concept]
+   593   C0022646:Kidneys (Kidney) [Body Part, Organ, or Organ Component]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+   593   C0227665:kidneys (Both kidneys) [Body Part, Organ, or Organ Component]
+Meta Mapping (696):
+   593   C1517331:Further [Spatial Concept]
+   760   C0010957:Damage (Tissue damage) [Injury or Poisoning]
+   593   C0022646:Kidneys (Kidney) [Body Part, Organ, or Organ Component]
+Processing 00000000.tx.29: "The patient is experiencing chest discomfort and shortness of breath, which may indicate a pulmonary embolism or other cardiovascular condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: chest discomfort
+Meta Mapping (1000):
+  1000   C0235710:Chest discomfort [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C0013404:Shortness of Breath (Dyspnea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a pulmonary embolism
+Meta Mapping (1000):
+  1000   C0034065:Pulmonary Embolism [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: other cardiovascular condition."
+Meta Mapping (1000):
+  1000   C0007222:cardiovascular condition (Cardiovascular Diseases) [Disease or Syndrome]
+Processing 00000000.tx.30: "The laboratory results showed elevated levels of liver enzymes, which may indicate liver damage or disease." 
+
+Phrase: "
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: elevated levels of liver enzymes,
+Meta Mapping (807):
+   677   C0235996:Elevated liver enzymes [Finding]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+Meta Mapping (807):
+   593   C3163633:Elevated [Qualitative Concept]
+   844   C0428321:liver enzymes levels (Measurement of liver enzyme) [Laboratory Procedure]
+Meta Mapping (807):
+   593   C0205250:Elevated (High) [Qualitative Concept]
+   844   C0428321:liver enzymes levels (Measurement of liver enzyme) [Laboratory Procedure]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: liver damage
+Meta Mapping (1000):
+  1000   C0151763:Liver damage [Pathologic Function]
+
+Phrase: or
+
+Phrase: disease."
+Meta Mapping (1000):
+  1000   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.31: "The patient has a history of depression and is currently experiencing feelings of hopelessness and social withdrawal, which may require a change in treatment approach." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of depression
+Meta Mapping (909):
+   909   C0455503:History of depression (H/O: depression) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently experiencing feelings of hopelessness
+Meta Mapping (862):
+   593   C0521116:Currently (Current (present time)) [Temporal Concept]
+   560   C0596545:Experience [Mental Process]
+   851   C0150041:Feeling of hopelessness (Feeling hopeless) [Finding]
+Meta Mapping (862):
+   593   C0521116:Currently (Current (present time)) [Temporal Concept]
+   560   C0237607:experience (Practice Experience) [Mental Process]
+   851   C0150041:Feeling of hopelessness (Feeling hopeless) [Finding]
+
+Phrase: and
+
+Phrase: social withdrawal,
+Meta Mapping (1000):
+  1000   C0424095:Social withdrawal [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: require
+
+Phrase: a change in treatment approach."
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C1522326:Treatment (Treating) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0443172:change (Changed status) [Quantitative Concept]
+   645   C0039798:treatment (therapeutic aspects) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C1522326:Treatment (Treating) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C0392747:Change (Changing) [Functional Concept]
+   645   C0039798:treatment (therapeutic aspects) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C1522326:Treatment (Treating) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+   812   C0449445:Approach [Spatial Concept]
+Meta Mapping (775):
+   645   C1705241:Change (Delta (difference)) [Quantitative Concept]
+   645   C0039798:treatment (therapeutic aspects) [Functional Concept]
+   812   C0449445:Approach [Spatial Concept]
+Processing 00000000.tx.32: "The patient has a family history of celiac disease and is currently experiencing digestive symptoms such as diarrhea and bloating, which may indicate the presence of the condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of celiac disease
+Meta Mapping (938):
+   938   C2316251:Family history of celiac disease [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: digestive symptoms such as diarrhea
+Meta Mapping (745):
+   806   C0476288:digestive symptoms (Digestive symptom) [Sign or Symptom]
+   593   C0011991:Diarrhea [Sign or Symptom]
+Meta Mapping (745):
+   806   C0476288:digestive symptoms (Digestive symptom) [Sign or Symptom]
+   593   C1963091:Diarrhea (Diarrhea Adverse Event) [Finding]
+Meta Mapping (745):
+   593   C0012238:Digestive (Digestion) [Organism Function]
+   797   C0011991:Diarrhea symptoms (Diarrhea) [Sign or Symptom]
+Meta Mapping (745):
+   593   C0012240:Digestive (Gastrointestinal system) [Body System]
+   797   C0011991:Diarrhea symptoms (Diarrhea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: bloating,
+Meta Mapping (1000):
+  1000   C1291077:Bloating (Abdominal bloating) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of the condition."
+Meta Mapping (686):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   593   C0348080:Condition [Qualitative Concept]
+Meta Mapping (686):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   593   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (686):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   593   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.33: "The patient has been diagnosed with glaucoma, which requires ongoing monitoring and treatment to prevent vision loss." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with glaucoma,
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0017601:Glaucoma [Disease or Syndrome]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C0997768:Glaucoma (Glaucoma (eukaryote)) [Eukaryote]
+Meta Mapping (746):
+   790   C0011900:Diagnosed (Diagnosis) [Finding]
+   790   C1962986:Glaucoma (Glaucoma Adverse Event) [Finding]
+
+Phrase: which
+
+Phrase: requires
+
+Phrase: ongoing monitoring
+Meta Mapping (888):
+   694   C0549178:ONGOING (Continuous) [Idea or Concept]
+   861   C1516647:monitoring (Clinical Trials, Monitoring) [Research Activity]
+Meta Mapping (888):
+   694   C0549178:ONGOING (Continuous) [Idea or Concept]
+   861   C0150369:Monitoring (Preventive monitoring) [Health Care Activity]
+
+Phrase: and
+
+Phrase: treatment to
+Meta Mapping (861):
+   861   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (861):
+   861   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (861):
+   861   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (861):
+   861   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (861):
+   861   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (861):
+   861   C0039798:treatment (therapeutic aspects) [Functional Concept]
+
+Phrase: prevent
+Meta Mapping (1000):
+  1000   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: vision loss."
+Meta Mapping (1000):
+  1000   C0456909:VISION LOSS (Blind Vision) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C3665346:Vision loss (Unspecified visual loss) [Sign or Symptom]
+Processing 00000000.tx.34: "The patient is experiencing difficulty with balance and coordination, which may indicate a neurological disorder or inner ear problem." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: difficulty with balance
+Meta Mapping (858):
+   858   C1744587:BALANCE DIFFICULTY (Difficulty balancing) [Finding]
+Meta Mapping (858):
+   858   C0234964:balance difficulty (Poor balance (finding)) [Finding]
+
+Phrase: and
+
+Phrase: coordination,
+Meta Mapping (1000):
+  1000   C0700114:Coordination (Coordinated) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0242414:Coordination (Physiologic Coordination) [Physiologic Function]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a neurological disorder
+Meta Mapping (1000):
+  1000   C0027765:Neurological disorder (nervous system disorder) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: inner ear problem."
+Meta Mapping (901):
+   660   C0205102:Inner (Internal) [Spatial Concept]
+   901   C0262174:Ear problem [Finding]
+Meta Mapping (901):
+   734   C1268973:Inner ear (Entire inner ear) [Body Part, Organ, or Organ Component]
+   827   C0033213:Problem [Finding]
+Meta Mapping (901):
+   734   C0022889:Ear, Inner (Labyrinth) [Body Part, Organ, or Organ Component]
+   827   C0033213:Problem [Finding]
+Processing 00000000.tx.35: "The laboratory results showed elevated levels of cholesterol and triglycerides in the patient's blood, which may indicate an increased risk of heart disease." 
+
+Phrase: "
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: elevated levels of cholesterol
+Meta Mapping (881):
+   868   C1839869:elevated cholesterol levels (Elevated total cholesterol) [Finding]
+
+Phrase: and
+
+Phrase: triglycerides in the patient's blood,
+Meta Mapping (745):
+   593   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   797   C0518018:blood triglycerides [Laboratory Procedure]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: an increased risk of heart disease."
+Meta Mapping (774):
+   753   C0442805:Increased (Increase) [Functional Concept]
+   820   C1113667:heart disease risk [Finding]
+Meta Mapping (774):
+   753   C0205217:Increased [Quantitative Concept]
+   820   C1113667:heart disease risk [Finding]
+Processing 00000000.tx.36: "The patient has a history of alcoholism and is currently experiencing liver pain and yellowing of the skin, which may indicate liver damage or disease." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of alcoholism
+Meta Mapping (909):
+   909   C0455500:History of alcoholism (H/O: alcoholism) [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: liver pain
+Meta Mapping (1000):
+  1000   C1963161:Liver pain (Liver Pain Adverse Event) [Finding]
+Meta Mapping (1000):
+  1000   C0522067:Liver pain [Sign or Symptom]
+
+Phrase: and
+
+Phrase: yellowing of the skin,
+Meta Mapping (819):
+   819   C0558148:skin yellowing (Yellow complexion) [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: liver damage
+Meta Mapping (1000):
+  1000   C0151763:Liver damage [Pathologic Function]
+
+Phrase: or
+
+Phrase: disease."
+Meta Mapping (1000):
+  1000   C0012634:Disease [Disease or Syndrome]
+Processing 00000000.tx.37: "The patient is experiencing chest pain that is exacerbated by physical activity, which may indicate angina or another cardiovascular condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000   C0008031:Chest Pain [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C2926613:Chest pain (Chest pain:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: exacerbated by physical activity,
+Meta Mapping (783):
+   770   C1444749:Exacerbated [Qualitative Concept]
+   833   C0026606:Physical activity [Daily or Recreational Activity]
+Meta Mapping (783):
+   770   C0436331:Exacerbated (Symptom aggravating factors) [Finding]
+   833   C0026606:Physical activity [Daily or Recreational Activity]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:Angina (Angina Pectoris) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: another cardiovascular condition."
+Meta Mapping (1000):
+  1000   C0007222:cardiovascular condition (Cardiovascular Diseases) [Disease or Syndrome]
+Processing 00000000.tx.38: "The patient has a family history of thyroid disease and is currently experiencing fatigue and weight gain, which may indicate an underactive thyroid." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of thyroid disease
+Meta Mapping (867):
+   864   C0850707:family history of disease (history (of) disease family) [Finding]
+   586   C0040132:Thyroid, NOS (Thyroid Gland) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: fatigue
+Meta Mapping (1000):
+  1000   C0015672:Fatigue [Sign or Symptom]
+
+Phrase: and
+
+Phrase: weight gain,
+Meta Mapping (1000):
+  1000   C0043094:Weight Gain [Finding]
+Meta Mapping (1000):
+  1000   C2911647:Weight gain (Weight Gain Adverse Event) [Finding]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: an underactive thyroid."
+Meta Mapping (1000):
+  1000   C0020676:underactive thyroid (Hypothyroidism) [Disease or Syndrome]
+Processing 00000000.tx.39: "The imaging test showed a mass in the patient's breast, which may require further evaluation to determine whether it is cancerous." 
+
+Phrase: "
+
+Phrase: The imaging test
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0022885:Test (Laboratory Procedures) [Laboratory Procedure]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0039593:Test (Testing) [Functional Concept]
+Meta Mapping (888):
+   694   C0079595:Imaging (Imaging Techniques) [Diagnostic Procedure]
+   861   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: a mass in the patient's breast,
+Meta Mapping (774):
+   820   C0024103:Mass in breast [Finding]
+   586   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: require
+
+Phrase: further evaluation to
+Meta Mapping (790):
+   660   C1517331:Further [Spatial Concept]
+   827   C0220825:Evaluation [Functional Concept]
+Meta Mapping (790):
+   660   C1517331:Further [Spatial Concept]
+   827   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+
+Phrase: determine
+
+Phrase: whether
+
+Phrase: it
+
+Phrase: is
+
+Phrase: cancerous."
+Meta Mapping (928):
+   928   C0998265:Cancer (Cancer Genus) [Eukaryote]
+Meta Mapping (928):
+   928   C0006826:Cancer (Malignant Neoplasms) [Neoplastic Process]
+Meta Mapping (928):
+   928   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+Processing 00000000.tx.40: "The patient has been diagnosed with bipolar disorder and is currently experiencing manic symptoms, which require immediate attention and intervention." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: diagnosed with bipolar disorder
+Meta Mapping (783):
+   770   C0011900:Diagnosed (Diagnosis) [Finding]
+   833   C0005586:Bipolar Disorder [Mental or Behavioral Dysfunction]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: manic symptoms,
+Meta Mapping (1000):
+  1000   C0746402:manic symptoms (manic symptom) [Mental or Behavioral Dysfunction]
+
+Phrase: which
+
+Phrase: require
+
+Phrase: immediate attention
+Meta Mapping (888):
+   694   C0205253:Immediate [Temporal Concept]
+   861   C0004268:Attention [Mental Process]
+Meta Mapping (888):
+   694   C0205548:Immediate (Stat (do immediately)) [Temporal Concept]
+   861   C0004268:Attention [Mental Process]
+
+Phrase: and
+
+Phrase: intervention."
+Meta Mapping (1000):
+  1000   C1273869:Intervention (Intervention regimes) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C0886296:intervention (Nursing interventions) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C1948041:Intervention (Surgical and medical procedures) [Therapeutic or Preventive Procedure]
+Processing 00000000.tx.41: "The patient is experiencing difficulty with speech and language, which may indicate a stroke or other neurological condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: difficulty with speech
+Meta Mapping (858):
+   858   C0233715:speech difficulty (Speech impairment) [Mental or Behavioral Dysfunction]
+
+Phrase: and
+
+Phrase: language,
+Meta Mapping (1000):
+  1000   C0023008:Language (Languages) [Language]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: a stroke
+Meta Mapping (1000):
+  1000   C0038454:Stroke (Cerebrovascular accident) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: other neurological condition."
+Meta Mapping (1000):
+  1000   C0027765:neurological condition (nervous system disorder) [Disease or Syndrome]
+Processing 00000000.tx.42: "The laboratory results showed elevated levels of inflammatory markers, which may indicate the presence of an autoimmune or inflammatory condition. 
+
+Phrase: "
+
+Phrase: The laboratory results
+Meta Mapping (1000):
+  1000   C1254595:laboratory results [Laboratory or Test Result]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Intellectual Product]
+
+Phrase: elevated levels of inflammatory markers,
+Meta Mapping (807):
+   677   C3276087:Elevated inflammatory markers [Finding]
+   760   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+
+Phrase: which
+
+Phrase: may
+
+Phrase: indicate
+
+Phrase: the presence of an autoimmune
+Meta Mapping (686):
+   760   C0392148:Presence [Therapeutic or Preventive Procedure]
+   593   C0443146:Autoimmune (Autoimmune reaction) [Pathologic Function]
+
+Phrase: or
+
+Phrase: inflammatory condition.
+Meta Mapping (1000):
+  1000   C1290884:inflammatory condition (Inflammatory disorder) [Disease or Syndrome]
+Processing 00000000.tx.43: "The patient has a history of thyroid problems, but it is uncertain whether they have hyperthyroidism or hypothyroidism." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of thyroid problems,
+Meta Mapping (745):
+   760   C1705255:History (Concept History) [Conceptual Entity]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+Meta Mapping (745):
+   760   C0019665:history (Historical aspects qualifier) [Intellectual Product]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+Meta Mapping (745):
+   760   C0019664:History [Occupation or Discipline]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+Meta Mapping (745):
+   760   C0262512:History, NOS (History of present illness) [Organism Attribute]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+Meta Mapping (745):
+   760   C2004062:History (History of previous events) [Finding]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+Meta Mapping (745):
+   760   C0262926:History (Medical History) [Finding]
+   640   C0851024:THYROID PROBLEMS (Thyroid Alteration) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: have
+
+Phrase: hyperthyroidism
+Meta Mapping (1000):
+  1000   C0020550:Hyperthyroidism [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: hypothyroidism."
+Meta Mapping (1000):
+  1000   C0020676:Hypothyroidism [Disease or Syndrome]
+Processing 00000000.tx.44: "The patient is experiencing muscle spasms, which could be due to a neurological disorder or dehydration." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: muscle spasms,
+Meta Mapping (1000):
+  1000   C0037763:Spasms, Muscle (Spasm) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to a neurological disorder
+Meta Mapping (759):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   790   C0027765:Neurological disorder (nervous system disorder) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: dehydration."
+Meta Mapping (1000):
+  1000   C0011175:Dehydration [Disease or Syndrome]
+Processing 00000000.tx.45: "The patient has a family history of colon cancer, but it is uncertain whether they are at high risk for the condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of colon cancer,
+Meta Mapping (867):
+   864   C0260515:Family history of cancer [Finding]
+   586   C0009368:Colon (Colon structure (body structure)) [Body Part, Organ, or Organ Component]
+Meta Mapping (867):
+   864   C0260515:Family history of cancer [Finding]
+   586   C1281569:Colon (Entire colon) [Body Part, Organ, or Organ Component]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are at high risk
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C3272283:High Risk (American College of Cardiology/American Heart Association Lesion Complexity Score C) [Finding]
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C0332167:High Risk (High risk of) [Qualitative Concept]
+
+Phrase: for the condition."
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.46: "The patient is experiencing ringing in their ears, which could be due to exposure to loud noise or a medical condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: ringing in their ears,
+Meta Mapping (881):
+   881   C0040264:RINGING IN EARS (Tinnitus) [Finding]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to exposure
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   770   C3146286:Due [Idea or Concept]
+   819   C0332157:Exposure to [Clinical Attribute]
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   770   C0678226:due (Due to) [Functional Concept]
+   819   C0332157:Exposure to [Clinical Attribute]
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   833   C0678226:Due to [Functional Concept]
+   770   C0332157:Exposure (Exposure to) [Clinical Attribute]
+Meta Mapping (861):
+   770   C2987476:Be (Exist) [Conceptual Entity]
+   833   C0678226:Due to [Functional Concept]
+   770   C0274281:Exposure, NOS (Injury due to exposure to external cause) [Injury or Poisoning]
+
+Phrase: to loud noise
+Meta Mapping (888):
+   694   C0178733:Loud (Loudness) [Qualitative Concept]
+   861   C0028263:Noise [Phenomenon or Process]
+
+Phrase: or
+
+Phrase: a medical condition."
+Meta Mapping (888):
+   694   C0205476:Medical [Functional Concept]
+   861   C0348080:Condition [Qualitative Concept]
+Meta Mapping (888):
+   694   C0205476:Medical [Functional Concept]
+   861   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (888):
+   694   C0205476:Medical [Functional Concept]
+   861   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.47: "The patient has a history of skin cancer, but it is unclear whether the current lesion is cancerous or benign." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of skin cancer,
+Meta Mapping (926):
+   926   C1998317:history of skin cancer (History of malignant neoplasm of skin) [Finding]
+Meta Mapping (926):
+   926   C1387403:history of skin cancer (Personal history of primary malignant neoplasm of skin) [Finding]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: unclear
+
+Phrase: whether
+
+Phrase: the current lesion
+Meta Mapping (888):
+   694   C0521116:Current (Current (present time)) [Temporal Concept]
+   861   C0221198:Lesion [Finding]
+Meta Mapping (888):
+   694   C0521116:Current (Current (present time)) [Temporal Concept]
+   861   C1546698:Lesion (Specimen Source Codes - Lesion) [Intellectual Product]
+Meta Mapping (888):
+   694   C1705970:Current (Electrical Current) [Natural Phenomenon or Process]
+   861   C0221198:Lesion [Finding]
+Meta Mapping (888):
+   694   C1705970:Current (Electrical Current) [Natural Phenomenon or Process]
+   861   C1546698:Lesion (Specimen Source Codes - Lesion) [Intellectual Product]
+
+Phrase: is
+
+Phrase: cancerous
+Meta Mapping (928):
+   928   C0998265:Cancer (Cancer Genus) [Eukaryote]
+Meta Mapping (928):
+   928   C0006826:Cancer (Malignant Neoplasms) [Neoplastic Process]
+Meta Mapping (928):
+   928   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+
+Phrase: or
+
+Phrase: benign."
+Meta Mapping (1000):
+  1000   C0205183:Benign [Qualitative Concept]
+Processing 00000000.tx.48: "The patient is experiencing numbness and tingling in their extremities, which could be due to nerve damage or other conditions." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: numbness
+Meta Mapping (1000):
+  1000   C0020580:Numbness (Hypesthesia) [Finding]
+Meta Mapping (1000):
+  1000   C0028643:Numbness [Sign or Symptom]
+
+Phrase: and
+
+Phrase: tingling in their extremities,
+Meta Mapping (708):
+   770   C2242996:Tingling (Has tingling sensation) [Sign or Symptom]
+   604   C0278454:extremities (All extremities) [Body Part, Organ, or Organ Component]
+Meta Mapping (708):
+   770   C2242996:Tingling (Has tingling sensation) [Sign or Symptom]
+   604   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to nerve damage
+Meta Mapping (857):
+   760   C2987476:Be (Exist) [Conceptual Entity]
+   806   C0678226:Due to [Functional Concept]
+   806   C0161479:Nerve damage (Nerve injury) [Injury or Poisoning]
+
+Phrase: or
+
+Phrase: other conditions."
+Meta Mapping (966):
+   966   C0348080:Condition [Qualitative Concept]
+Meta Mapping (966):
+   966   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (966):
+   966   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.49: "The patient has a family history of autoimmune disease, but it is uncertain whether they are at high risk for the condition." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a family history of autoimmune disease,
+Meta Mapping (867):
+   864   C0850707:family history of disease (history (of) disease family) [Finding]
+   586   C0443146:Autoimmune (Autoimmune reaction) [Pathologic Function]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are at high risk
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C3272283:High Risk (American College of Cardiology/American Heart Association Lesion Complexity Score C) [Finding]
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C0332167:High Risk (High risk of) [Qualitative Concept]
+
+Phrase: for the condition."
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Processing 00000000.tx.50: "The patient is experiencing hair loss, which could be due to a medical condition or a side effect of medication." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: hair loss,
+Meta Mapping (1000):
+  1000   C0002170:Hair loss (Alopecia) [Finding]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to a medical condition
+Meta Mapping (741):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   753   C0205476:Medical [Functional Concept]
+   753   C0348080:Condition [Qualitative Concept]
+Meta Mapping (741):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   753   C0205476:Medical [Functional Concept]
+   753   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (741):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   753   C0205476:Medical [Functional Concept]
+   753   C1705253:Condition (Logical Condition) [Conceptual Entity]
+
+Phrase: or
+
+Phrase: a side effect of medication."
+Meta Mapping (844):
+   844   C0041755:medication side-effect (Adverse reaction to drug) [Injury or Poisoning]
+Processing 00000000.tx.51: "The patient has a history of heart palpitations, but it is uncertain whether they are due to a heart condition or anxiety." 
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a history of heart palpitations,
+Meta Mapping (843):
+   844   C3532616:History of palpitations [Finding]
+   593   C1281570:Heart (Entire heart) [Body Part, Organ, or Organ Component]
+Meta Mapping (843):
+   844   C3532616:History of palpitations [Finding]
+   593   C0018787:Heart [Body Part, Organ, or Organ Component]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: is
+
+Phrase: uncertain
+Meta Mapping (1000):
+  1000   C0087130:Uncertain (Uncertainty) [Idea or Concept]
+
+Phrase: whether
+
+Phrase: they
+
+Phrase: are due to a heart condition
+Meta Mapping (759):
+   753   C1551058:Are (are unit of measure) [Quantitative Concept]
+   790   C0678226:Due to [Functional Concept]
+   790   C0018799:heart condition (Heart Diseases) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: anxiety."
+Meta Mapping (1000):
+  1000   C0003467:Anxiety [Mental Process]
+Meta Mapping (1000):
+  1000   C0003469:Anxiety (Anxiety Disorders) [Mental or Behavioral Dysfunction]
+Processing 00000000.tx.52: "The patient is experiencing abdominal bloating and discomfort, which could be due to a digestive disorder or food intolerance."
+
+Phrase: "
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: abdominal bloating
+Meta Mapping (1000):
+  1000   C1291077:Abdominal bloating [Sign or Symptom]
+
+Phrase: and
+
+Phrase: discomfort,
+Meta Mapping (1000):
+  1000   C0231218:DISCOMFORT (Malaise) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0234215:Discomfort (Sensory Discomfort) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: could
+
+Phrase: be due to a digestive disorder
+Meta Mapping (759):
+   753   C2987476:Be (Exist) [Conceptual Entity]
+   790   C0678226:Due to [Functional Concept]
+   790   C0012242:digestive disorder (Digestive System Disorders) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: food intolerance."
+Meta Mapping (1000):
+  1000   C0149696:Food intolerance (Food intolerance (disorder)) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C3665356:Food intolerance (Food intolerance (finding)) [Sign or Symptom]
