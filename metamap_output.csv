@@ -1,1051 +1,1051 @@
-preferred_name,cui,semtypes,pos_info
-Severe Extremity Pain,C4050465,[fndg],"27/6;27/6,40/4"
-Dyspnea,C0013404,[sosy],49/19
-Have Shortness of Breath question,C3274920,[inpr],49/19
-How Much Distress Shortness of Breath,C4084764,[inpr],49/19
-How Often Shortness of Breath,C4084763,[inpr],49/19
-Patients,C0030705,[podg],5/7
-Shortness of Breath Visual Analogue Scale,C4553552,[inpr],49/19
-Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],49/19
-Usual Severity Shortness of Breath,C4084762,[inpr],49/19
-cardiac event,C0741923,[dsyn],91/13
-Chest Pain,C0008031,[sosy],34/10
-Chest pain:Finding:Point in time:^Patient:Ordinal,C2926613,[clna],34/10
-Neck Pain Score 6,C4521229,[fndg],"27/6,40/4"
-Severe pain,C0278140,[fndg],"27/6,40/4"
-Anterior thoracic region,C1527391,[blor],34/5
-Borg Category-Ratio 10 Perceived Exertion Score 5,C4050466,[fndg],27/6
-Chest,C0817096,[blor],34/5
-Epidermal cGVHD Score 4,C4761449,[fndg],27/6
-Intensity and Distress 5,C5203119,[fndg],27/6
-Present,C0150312,[fndg],13/8
-Presentation,C0449450,[idcn],13/8
-Severe (severity modifier),C0205082,[fndg],27/6
-Severe Hallucination,C4722466,[fndg],27/6
-Liver,C0023884,[bpoc],59/5
-Liver Flavor,C2346688,[food],59/5
-Show,C1547282,[anim],20/6
-Cell Growth,C0007595,[celf],36/15
-Biopsy,C0005558,[diap],5/6
-biopsy characteristics,C0220797,[fndg],5/6
-Experimental Result,C2825142,[fndg],12/7
-Result,C1274040,[ftcn],12/7
-What subject filter - Result,C1546471,[idcn],12/7
-Liver and Intrahepatic Biliary Tract Carcinoma,C0279000,[neop],"77/3,93/15"
-Malignant neoplasm of liver,C0345904,[neop],"77/3,93/15"
-Possible,C0332149,[fndg],81/11
-Possible diagnosis,C2362652,[qlco],81/11
-Possibly Related to Intervention,C1705910,[qlco],81/11
-Abnormal,C0205161,[fndg],27/8
-Abnormal Reference Range,C2699333,[inpr],27/8
-Percent of Abnormal Cells,C2347472,[qnco],27/8
-Blood,C0005767,[bdsu],63/5
-In Blood,C0005768,[bdsu],63/5
-Patients,C0030705,[podg],5/7
-peripheral blood,C0229664,[bdsu],63/5
-Experience,C0596545,[menp],16/12
-Practice Experience,C0237607,[menp],16/12
-Glucose level - finding,C0428548,[lbtr],"38/6,48/7"
-Presence (property),C3854307,[qlco],93/8
-Present,C0150312,[fndg],93/8
-Providing presence (regime/therapy),C0392148,[topp],93/8
-Diabetes,C0011847,[dsyn],105/8
-Diabetes Mellitus,C0011849,[dsyn],105/8
-Elevated,C3163633,[qlco],29/8
-High,C0205250,[qlco],29/8
-CYREN gene,C1824234,[gngm],5/3
-Magnetic Resonance Imaging,C0024485,[diap],5/3
-Magnetic Resonance Imaging Study File,C3890166,[inpr],5/3
-Maori Language,C0376248,[lang],5/3
-Revealed,C0443289,[qlco],9/8
-Multiple lesions,C0577305,[fndg],18/16
-Lesion of brain,C0221505,[dsyn],"27/7,42/5"
-Presence (property),C3854307,[qlco],72/8
-Present,C0150312,[fndg],72/8
-Providing presence (regime/therapy),C0392148,[topp],72/8
-MS gene,C1417325,[gngm],84/18
-Multiple Sclerosis,C0026769,[dsyn],84/18
-Brain,C0006104,[bpoc],42/5
-Numerous,C0439064,[qnco],18/8
-Current (present time),C0521116,[tmco],50/9
-Headache,C0018681,[sosy],75/8
-"Headache, CTCAE",C4553197,[fndg],75/8
-Hypertensive crisis,C0020546,[patf],106/19
-Patients,C0030705,[podg],5/7
-Experience,C0596545,[menp],60/12
-Practice Experience,C0237607,[menp],60/12
-H/O: hypertension,C0455527,[fndg],19/23
-,,,76:4
-Patients,C0030705,[podg],5/7
-Progressive Disease,C1335499,[dsyn],"94/11,118/9"
-Progressive Neoplastic Disease,C0677932,[neop],"94/11,118/9"
-Progressive cGVHD,C3539781,[dsyn],"94/11,118/9"
-Progressive disorder,C1864985,[fndg],"94/11,118/9"
-Respiration Disorders,C0035204,[dsyn],106/21
-Respiratory Tract Diseases,C0035242,[dsyn],106/21
-Chronic Obstructive Airway Disease,C0024117,[dsyn],37/37
-Diagnosis,C0011900,[diap],22/9
-Progressive,C0205329,[ftcn],94/11
-Specimen Source Codes - Respiratory,C1546767,[inpr],106/11
-respiratory,C0521346,[ftcn],106/11
-laboratory results,C1254595,[lbtr],5/18
-Show,C1547282,[anim],24/6
-Presence of infection,C0449970,[fndg],"92/11,107/9"
-Levels (qualifier value),C0441889,[qlco],40/6
-White blood cell count increased (lab result),C0750426,[fndg],"31/8,50/17"
-BREAST PAIN FEMALE,C0553713,[sosy],81/11
-"Breast Pain, CTCAE 5.0",C4554623,[fndg],81/11
-Current (present time),C0521116,[tmco],58/9
-Mastodynia,C0024902,[sosy],81/11
-Patients,C0030705,[podg],5/7
-Experience,C0596545,[menp],68/12
-Practice Experience,C0237607,[menp],68/12
-Family history of breast cancer,C0559119,[fndg],19/31
-Family history of malignant neoplasm of breast,C1261325,[fndg],19/31
-Act Class - investigation,C1552578,[inpr],120/13
-Evaluation,C0220825,[hlca],120/13
-Evaluation procedure,C1261322,[hlca],120/13
-Further,C1517331,[spco],112/7
-Arthralgia,C0003862,[sosy],81/10
-Current (present time),C0521116,[tmco],58/9
-"Joint Pain, CTCAE 3",C1963066,[fndg],81/10
-Level of Joint Pain,C4085641,[inpr],81/10
-Patients,C0030705,[podg],5/7
-Stiffness,C0427008,[sosy],96/9
-Experience,C0596545,[menp],68/12
-Practice Experience,C0237607,[menp],68/12
-H/O: rheumatoid arthritis,C0455571,[fndg],19/31
-Flare-up,C3830105,[fndg],128/8
-Condition,C0348080,[qlco],144/9
-Condition Domain,C4722256,[inpr],144/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],144/9
-Disease,C0012634,[dsyn],144/9
-Logical Condition,C1705253,[cnce],144/9
-,,,27:3
-Electro-Encephalogram,C1547121,[spco],5/20
-Electroencephalogram,C1527380,[lbtr],5/20
-Electroencephalography,C0013819,[diap],5/20
-Show,C1547282,[anim],32/6
-Brain activity,C0443158,[phsf],"48/5,59/8"
-Presence (property),C3854307,[qlco],92/8
-Present,C0150312,[fndg],92/8
-Providing presence (regime/therapy),C0392148,[topp],92/8
-Abnormal,C0205161,[fndg],39/8
-Abnormal Reference Range,C2699333,[inpr],39/8
-Percent of Abnormal Cells,C2347472,[qnco],39/8
-WASF1 gene,C1421479,[gngm],54/4
-wave - physical agent,C0678544,[npop],54/4
-Epilepsy,C0014544,[dsyn],104/8
-GDC Treatment Outcome Terminology,C5202850,[inpr],91/2
-Metastasis,C4255448,[patf],102/10
-Neoplasm Metastasis,C0027627,[neop],102/10
-PREVENT (product),C0309872,[phsu],94/7
-Patients,C0030705,[podg],5/7
-Secondary Neoplasm,C2939419,[neop],102/10
-To,C1883351,[qlco],91/2
-Tryptophanase,C0041260,"[aapp,enzy]",91/2
-Stage III Cutaneous Melanoma AJCC v6,C0278882,[neop],37/16
-Administration procedure,C1533734,[topp],81/9
-Biomaterial Treatment,C1705169,[cnce],81/9
-Therapeutic procedure,C0087111,[topp],81/9
-Treating,C1522326,[ftcn],81/9
-Treatment Epoch,C3538994,[resa],81/9
-therapeutic aspects,C0039798,[ftcn],81/9
-treatment - ActInformationManagementReason,C3887704,[hlca],81/9
-Diagnosis,C0011900,[diap],22/9
-Aggressive behavior,C0001807,[inbe],70/10
-Aggressive course,C0580822,[tmco],70/10
-Aortic Valve Stenosis,C0003507,[dsyn],29/15
-Control Valve Device,C1707505,[mnob],100/5
-Echocardiogram (image),C2243117,[inpr],5/14
-Echocardiography,C0013516,[diap],5/14
-GDC Treatment Outcome Terminology,C5202850,[inpr],86/2
-Medical Valves,C0184252,[medd],100/5
-Repair,C4319951,[ftcn],89/6
-Revealed,C0443289,[qlco],20/8
-Surgical intervention (finding),C0549433,[fndg],64/21
-Surgical repair,C0374711,[topp],89/6
-To,C1883351,[qlco],86/2
-Tryptophanase,C0041260,"[aapp,enzy]",86/2
-Valve (physical object),C3888056,[mnob],100/5
-Valve Device,C1704414,[medd],100/5
-Wound Healing,C0043240,[orgf],89/6
-anatomic valve,C1186983,[bpoc],100/5
-Current (present time),C0521116,[tmco],47/9
-Patients,C0030705,[podg],5/7
-Visual disturbance,C0547030,[fndg],70/19
-Experience,C0596545,[menp],57/12
-Practice Experience,C0237607,[menp],57/12
-H/O: migraine,C0455512,[fndg],19/20
-Age of Onset,C0206132,[qnco],114/5
-Onset of (contextual qualifier),C0332162,[qlco],114/5
-Episode of,C0332189,[tmco],"120/2,134/7"
-Migraine Disorders,C0149931,[dsyn],125/8
-Deficiency,C0011155,[ftcn],77/10
-Increase,C0442805,[ftcn],92/8
-Malnutrition,C0162429,[dsyn],77/10
-Vitamin D Deficiency,C0042870,[dsyn],31/23
-deficiency aspects,C1623416,[qlco],77/10
-laboratory results,C1254595,[lbtr],5/18
-Show,C1547282,[anim],24/6
-Risk,C0035647,[idcn],105/4
-Subject Risk,C4552904,[cnce],105/4
-Fracture,C0016658,[inpo],110/17
-Disease,C0012634,[dsyn],49/7;135/9
-Amnesia,C0002622,[mobd],77/11
-Memory Loss,C0751295,[sosy],77/11
-Patients,C0030705,[podg],5/7
-Experience,C0596545,[menp],64/12
-Practice Experience,C0237607,[menp],64/12
-FH: Alzheimer's disease,C1271045,[fndg],19/29
-Evaluation,C0220825,[hlca],116/10
-Evaluation procedure,C1261322,[hlca],116/10
-Condition,C0348080,[qlco],135/9
-Condition Domain,C4722256,[inpr],135/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],135/9
-Further,C1517331,[spco],108/7
-Logical Condition,C1705253,[cnce],135/9
-Precancerous Conditions,C0032927,[neop],68/22
-Colonic Polyps,C0009376,[anab],"26/6,40/5"
-Consent Type - Colonoscopy,C1548837,[hlca],5/11
-Revealed,C0443289,[qlco],17/8
-colonoscopy,C0009378,[diap],5/11
-Current (present time),C0521116,[tmco],44/9
-Dyspnea,C0013404,[sosy],80/19
-Exacerbation of asthma,C0349790,[fndg],123/19
-Have Shortness of Breath question,C3274920,[inpr],80/19
-How Much Distress Shortness of Breath,C4084764,[inpr],80/19
-How Often Shortness of Breath,C4084763,[inpr],80/19
-Patients,C0030705,[podg],5/7
-Shortness of Breath Visual Analogue Scale,C4553552,[inpr],80/19
-Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],80/19
-Usual Severity Shortness of Breath,C4084762,[inpr],80/19
-Wheezing,C0043144,[sosy],67/8
-"Wheezing, CTCAE",C4553925,[fndg],67/8
-Experience,C0596545,[menp],54/12
-Practice Experience,C0237607,[menp],54/12
-H/O: asthma,C0455544,[fndg],19/17
-Disease,C0012634,[dsyn],97/7
-In Urine,C0042037,[ftcn],54/5
-Kidney damage,C1408258,[fndg],80/13
-Portion of urine,C2963137,[bdsu],54/5
-Urinalysis,C0042014,[lbpr],5/10
-Urine,C0042036,[bdsu],54/5
-Show,C1547282,[anim],16/6
-Presence (property),C3854307,[qlco],27/8
-Present,C0150312,[fndg],27/8
-Providing presence (regime/therapy),C0392148,[topp],27/8
-Proteins,C0033684,"[aapp,bacs]",39/7
-Patients,C0030705,[podg],5/7
-Therapeutic procedure,C0087111,[topp],109/7
-Therapy Object (animal model),C1363945,[fndg],109/7
-therapeutic aspects,C0039798,[ftcn],109/7
-Bipolar Disorder,C0005586,[mobd],37/16
-Administration of medication,C3469597,[topp],"78/10,94/10"
-Medication Management,C0150270,[hlca],"78/10,94/10"
-Diagnosis,C0011900,[diap],22/9
-Continuous,C0549178,[idcn],70/7
-Blood culture,C0200949,[lbpr],5/13
-Communicable Diseases,C0009450,[dsyn],127/9
-GDC Treatment Outcome Terminology,C5202850,[inpr],110/2
-Infection,C3714514,[patf],127/9
-To,C1883351,[qlco],110/2
-Tryptophanase,C0041260,"[aapp,enzy]",110/2
-Show,C1547282,[anim],19/6
-Administration of antibiotic,C0199779,[topp],89/20
-Presence of infection,C0449970,[fndg],"30/11,54/9"
-Target,C1521840,[ftcn],80/8
-Bacterial,C0521009,[qlco],44/9
-Patients,C0030705,[podg],5/7
-Cancer Genus,C0998265,[euka],52/9
-Malignant Neoplasms,C0006826,[neop],52/9
-Primary malignant neoplasm,C1306459,[neop],52/9
-Lung mass,C0149726,[fndg],"19/4,33/4"
-Communicable Diseases,C0009450,[dsyn],69/9
-Infection,C3714514,[patf],69/9
-Inflammation,C0021368,[patf],82/12
-Patients,C0030705,[podg],5/7
-White blood cell count increased (lab result),C0750426,[fndg],19/27
-Inconclusive (qualifier value),C1629507,[qlco],38/12
-Indeterminate,C0205258,[qlco],38/12
-Testing,C0039593,[ftcn],63/7
-Tests (qualifier value),C0392366,[inpr],63/7
-Test Result,C0456984,[lbtr],"5/7,28/4"
-Further,C1517331,[spco],55/7
-Diagnostic Imaging,C0011923,[diap],20/7
-Imaging Techniques,C0079595,[diap],20/7
-Causing,C0678227,[ftcn],73/7
-Patients,C0030705,[podg],5/7
-Concept History,C1705255,[cnce],19/7
-Historical aspects qualifier,C0019665,[ftcn],19/7
-History,C0019664,[ocdi],19/7
-History of present illness,C0262512,[fndg],19/7
-History of previous events,C2004062,[fndg],19/7
-Medical History,C0262926,[fndg],19/7
-Syncope,C0039070,[sosy],30/15
-Abdominal Pain,C0000737,[sosy],29/14
-"Abdominal Pain, CTCAE 5",C4554323,[fndg],29/14
-Patients,C0030705,[podg],5/7
-Experience,C0596545,[menp],16/12
-Practice Experience,C0237607,[menp],16/12
-Symptom:Find:Pt:^Patient:Nom,C3854129,[clna],62/7
-Symptoms,C1457887,[sosy],62/7
-Different,C1705242,[qlco],78/9
-Condition,C0348080,[qlco],88/10
-Condition Domain,C4722256,[inpr],88/10
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],88/10
-Disease,C0012634,[dsyn],88/10
-Logical Condition,C1705253,[cnce],88/10
-Chronic condition,C4315615,[fndg],81/17
-Chronic disease,C0008679,[dsyn],81/17
-Elevated,C3163633,[qlco],33/8
-High,C0205250,[qlco],33/8
-Uncertain - Response,C4085655,[fndg],53/9
-Uncertainty,C0087130,[fndg],53/9
-Blood Pressure,C0005823,[orgf],15/14
-Blood pressure finding,C1271104,[fndg],15/14
-Systemic arterial pressure,C1272641,[fndg],15/14
-EntityNameUseR2 <temporary>,C3245481,[inpr],104/9
-Job Status - Temporary,C1548539,[idcn],104/9
-Transitory,C0205374,[tmco],104/9
-Negation,C1518422,[ftcn],58/3
-Patients,C0030705,[podg],5/7
-Cancer Genus,C0998265,[euka],65/9
-Malignant Neoplasms,C0006826,[neop],65/9
-Primary malignant neoplasm,C1306459,[neop],65/9
-Chest mass,C0347941,[fndg],"19/7,33/6"
-Depressed mood,C0344315,[mobd],74/10
-Depression - recess,C4085311,[qlco],74/10
-Depression Scale (BASC-2),C4049644,[inpr],74/10
-Depression Subordinate Domain,C4084909,[inpr],74/10
-Depression Visual Analogue Scale,C4553827,[inpr],74/10
-Depression motion,C0460137,[ftcn],74/10
-Depressive disorder,C0011581,[mobd],74/10
-Fatigue,C0015672,[sosy],29/7
-Fatigue Subordinate Domain,C4050243,[inpr],29/7
-"Fatigue, CTCAE 5.0",C4554645,[fndg],29/7
-Feel Fatigue,C3463815,[inpr],29/7
-Mental Depression,C0011570,[mobd],74/10
-Patients,C0030705,[podg],5/7
-Condition,C0348080,[qlco],95/10
-Condition Domain,C4722256,[inpr],95/10
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],95/10
-Disease,C0012634,[dsyn],95/10
-Experience,C0596545,[menp],16/12
-Logical Condition,C1705253,[cnce],95/10
-Practice Experience,C0237607,[menp],16/12
-Symptom:Find:Pt:^Patient:Nom,C3854129,[clna],55/7
-Symptoms,C1457887,[sosy],55/7
-Anemia,C0002871,[dsyn],66/6
-"Anemia, CTCAE",C4554633,[fndg],66/6
-Genus Anemia,C1000483,[plnt],66/6
-Abnormal,C0205161,[fndg],36/8
-Abnormal Reference Range,C2699333,[inpr],36/8
-Abnormality,C1704258,[fndg],84/11
-Causing,C0678227,[ftcn],72/7
-Percent of Abnormal Cells,C2347472,[qnco],36/8
-blood test result,C0849535,[lbtr],"5/7,20/10"
-Arthralgia,C0003862,[sosy],29/10
-Condition,C0348080,[qlco],105/9
-Condition Domain,C4722256,[inpr],105/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],105/9
-Disease,C0012634,[dsyn],105/9
-"Joint Pain, CTCAE 3",C1963066,[fndg],29/10
-Level of Joint Pain,C4085641,[inpr],29/10
-Logical Condition,C1705253,[cnce],105/9
-Patients,C0030705,[podg],5/7
-Uncertain - Response,C4085655,[fndg],51/9
-Uncertainty,C0087130,[fndg],51/9
-Experience,C0596545,[menp],16/12
-Practice Experience,C0237607,[menp],16/12
-Due to,C0678226,[ftcn],77/6
-Arthritis,C0003864,[dsyn],84/9
-"Arthritis, CTCAE",C4552845,[fndg],84/9
-Immunogenicity Specimen Assessments Domain,C3812801,[inpr],74/2
-International Scale for BCR-ABL1 Measurement,C4283815,[inpr],74/2
-Intrasynovial,C4049761,[spco],74/2
-Communicable Diseases,C0009450,[dsyn],95/9
-Infection,C3714514,[patf],95/9
-Patients,C0030705,[podg],5/7
-Due to,C0678226,[ftcn],71/6
-Exanthema,C0015230,[sosy],"19/4,33/4"
-Have a Skin Rash,C4318484,[inpr],"19/4,33/4"
-Allergic Reaction,C1527304,[patf],81/7
-Allergic disposition,C3539909,[fndg],81/7
-Allergy Specialty,C0002111,[bmod],81/7
-Hypersensitivity,C0020517,[patf],81/7
-Immunogenicity Specimen Assessments Domain,C3812801,[inpr],68/2
-International Scale for BCR-ABL1 Measurement,C4283815,[inpr],68/2
-Intrasynovial,C4049761,[spco],68/2
-Response to antigens,C1314973,[phsf],81/7
-Migraine Disorders,C0149931,[dsyn],78/9
-Patients,C0030705,[podg],5/7
-Tension Headache,C0033893,[dsyn],91/17
-Uncertain - Response,C4085655,[fndg],51/9
-Uncertainty,C0087130,[fndg],51/9
-History of headache,C1960629,[fndg],19/20
-ARCN1 gene,C1412502,[gngm],80/4
-Chronic Obstructive Airway Disease,C0024117,[dsyn],80/4
-Chronic obstructive pulmonary disease of horses,C3714496,[dsyn],80/4
-Dyspnea,C0013404,[sosy],29/19
-Have Shortness of Breath question,C3274920,[inpr],29/19
-How Much Distress Shortness of Breath,C4084764,[inpr],29/19
-How Often Shortness of Breath,C4084763,[inpr],29/19
-Patients,C0030705,[podg],5/7
-Respiration Disorders,C0035204,[dsyn],97/21
-Respiratory Tract Diseases,C0035242,[dsyn],97/21
-Shortness of Breath Visual Analogue Scale,C4553552,[inpr],29/19
-Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],29/19
-Usual Severity Shortness of Breath,C4084762,[inpr],29/19
-Experience,C0596545,[menp],16/12
-Practice Experience,C0237607,[menp],16/12
-Due to,C0678226,[ftcn],65/6
-Asthma,C0004096,[dsyn],72/6
-Asthma Pathway,C2984299,[cnce],72/6
-Biospecimen Events Domain,C3811654,[inpr],62/2
-Exist,C2987476,[qlco],62/2
-Dizziness,C0012833,[sosy],29/9
-"Dizziness, CTCAE 3.0",C1963093,[fndg],29/9
-"Dizziness, CTCAE 5.0",C4553830,[fndg],29/9
-Have Dizziness,C4084788,[inpr],29/9
-How Much Distress Dizziness,C4085549,[inpr],29/9
-How Often Dizzy,C4085547,[inpr],29/9
-Hypotension,C0020649,[fndg],82/18
-Patients,C0030705,[podg],5/7
-Usual Severity Dizziness,C4085548,[inpr],29/9
-Vertigo,C0042571,[sosy],29/9
-Condition,C0348080,[qlco],111/10
-Condition Domain,C4722256,[inpr],111/10
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],111/10
-Disease,C0012634,[dsyn],111/10
-Experience,C0596545,[menp],16/12
-Logical Condition,C1705253,[cnce],111/10
-Practice Experience,C0237607,[menp],16/12
-Due to,C0678226,[ftcn],55/6
-Ear problem,C0262174,[fndg],68/12
-Labyrinth,C0022889,[bpoc],62/9
-Biospecimen Events Domain,C3811654,[inpr],52/2
-Exist,C2987476,[qlco],52/2
-Internal,C0205102,[spco],62/5
-Problems - What subject filter,C1546466,[idcn],72/8
-Condition,C0348080,[qlco],108/9
-Condition Domain,C4722256,[inpr],108/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],108/9
-Disease,C0012634,[dsyn],108/9
-Logical Condition,C1705253,[cnce],108/9
-Patients,C0030705,[podg],5/7
-Family history of heart disease,C2186266,[fndg],19/31
-American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],90/9
-High Risk Acute Leukemia,C4050568,[fndg],90/9
-High risk,C4319571,[fndg],90/9
-High risk of,C0332167,[fndg],90/9
-IPSS-R Risk Category High,C5202936,[fndg],90/9
-International Prognostic Index High Risk Group,C5202937,[fndg],90/9
-are unit of measure,C1551058,[qnco],83/3
-Condition,C0348080,[qlco],104/9
-Condition Domain,C4722256,[inpr],104/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],104/9
-Disease,C0012634,[dsyn],104/9
-Logical Condition,C1705253,[cnce],104/9
-Patients,C0030705,[podg],5/7
-Uncertain - Response,C4085655,[fndg],50/9
-Uncertainty,C0087130,[fndg],50/9
-Due to,C0678226,[ftcn],77/6
-Concept History,C1705255,[cnce],19/7
-Epilepsy,C0014544,[dsyn],84/8
-Historical aspects qualifier,C0019665,[ftcn],19/7
-History,C0019664,[ocdi],19/7
-History of present illness,C0262512,[fndg],19/7
-History of previous events,C2004062,[fndg],19/7
-Medical History,C0262926,[fndg],19/7
-are unit of measure,C1551058,[qnco],73/3
-Seizures,C0036572,[sosy],30/8
-Administration procedure,C1533734,[topp],71/9
-Biomaterial Treatment,C1705169,[cnce],71/9
-IMPACT gene,C1825598,[gngm],58/6
-Impact,C4049986,[qlco],58/6
-Patients,C0030705,[podg],6/7
-Therapeutic procedure,C0087111,[topp],71/9
-Treating,C1522326,[ftcn],71/9
-Treatment Epoch,C3538994,[resa],71/9
-therapeutic aspects,C0039798,[ftcn],71/9
-treatment - ActInformationManagementReason,C3887704,[hlca],71/9
-History of substance abuse,C1299544,[fndg],20/26
-Recovery - action,C0237820,[acty],85/8
-Recovery - healing process,C2004454,[orgf],85/8
-recovery - adjustment,C1555688,[qnco],85/8
-Condition,C0348080,[qlco],104/10
-Condition Domain,C4722256,[inpr],104/10
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],104/10
-Disease,C0012634,[dsyn],104/10
-Logical Condition,C1705253,[cnce],104/10
-"Feet, unit of measurement",C0347981,[qnco],71/4
-Foot,C0016504,[bpoc],71/4
-Hypesthesia,C0020580,[fndg],30/8
-Numbness,C0028643,[sosy],30/8
-Patients,C0030705,[podg],6/7
-Peripheral Nervous System Diseases,C4721453,[dsyn],98/21
-Peripheral Neuropathy,C0031117,[dsyn],98/21
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Paresthesia of hand,C0239836,[sosy],"43/8,61/5"
-Increase,C0442805,[ftcn],58/9
-Increased,C0205217,[qlco],58/9
-Patients,C0030705,[podg],6/7
-Diagnosis,C0011900,[diap],23/9
-Osteoporosis,C0029456,[dsyn],38/12
-"Osteoporosis, CTCAE 5.0",C4554622,[fndg],38/12
-Risk,C0035647,[idcn],74/4
-Subject Risk,C4552904,[cnce],74/4
-Fracture,C0016658,[inpo],79/17
-Hyperthyroidism,C0020550,[dsyn],88/15
-"Hyperthyroidism, CTCAE",C4551916,[fndg],88/15
-laboratory results,C1254595,[lbtr],6/18
-Show,C1547282,[anim],25/6
-Finding of hormone level,C1287355,[lbpr],"41/6,59/8"
-Levels (qualifier value),C0441889,[qlco],41/6
-Thyroid Hormones,C0040135,[horm],51/16
-Elevated,C3163633,[qlco],32/8
-High,C0205250,[qlco],32/8
-THYROID DIAGNOSTIC RADIOPHARMACEUTICALS,C3540038,[irda],51/7
-Thyroid Gland,C0040132,[bpoc],51/7
-Current (present time),C0521116,[tmco],52/9
-Dyspnea,C0013404,[sosy],75/20
-Patients,C0030705,[podg],6/7
-Respiratory distress,C0476273,[sosy],75/20
-Experience,C0596545,[menp],62/12
-Practice Experience,C0237607,[menp],62/12
-H/O: heart failure,C0455531,[fndg],20/24
-Patient Outcome - Worsening,C1546960,[idcn],118/9
-Worse,C1457868,[fndg],118/9
-Worsening pattern,C0332271,[qlco],118/9
-Condition,C0348080,[qlco],137/9
-Condition Domain,C4722256,[inpr],137/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],137/9
-Disease,C0012634,[dsyn],137/9
-Logical Condition,C1705253,[cnce],137/9
-Make - Instruction Imperative,C1881534,[ftcn],83/5
-Patients,C0030705,[podg],6/7
-Family history of cancer of colon,C0730200,[fndg],20/30
-Old,C0580836,[tmco],72/3
-Candidate,C4527371,[cnce],96/9
-50%,C3842586,[qnco],63/2
-<50,C3843766,[fndg],63/2
-During,C0347984,[tmco],58/4
-Over (spatial),C0205136,[spco],58/4
-PSA Level Greater than Fifty,C4084918,[cnce],63/2
-year,C0439234,[tmco],66/5
-Screening colonoscopy,C1882982,[diap],110/21
-Back Pain,C0004604,[sosy],95/9
-"Back Pain, CTCAE 3.0",C1963071,[fndg],95/9
-"Back Pain, CTCAE 5.0",C4553945,[fndg],95/9
-Causing,C0678227,[ftcn],81/7
-Show,C1547282,[anim],19/6
-Blood Products Laboratory Testing,C3831328,[lbpr],14/4
-Laboratory Procedures,C0022885,[lbpr],14/4
-Symptoms,C1457887,[sosy],118/8
-Symptoms aspect,C0683368,[ftcn],118/8
-Test - temporal region,C4318744,[blor],14/4
-Test Result,C0456984,[lbtr],14/4
-Testing,C0039593,[ftcn],14/4
-Tests (qualifier value),C0392366,[inpr],14/4
-"Disk, Herniated",C0242362,[acab],28/14
-Intervertebral Disk Displacement,C0021818,[dsyn],28/14
-Diagnostic Imaging,C0011923,[diap],6/7
-Imaging Techniques,C0079595,[diap],6/7
-Sciatica,C0036396,[sosy],109/8
-Neuron spine,C2752558,[celc],61/5
-Patients,C0030705,[podg],50/7
-Vertebral column,C0037949,[bpoc],61/5
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],50/12
-Practice Experience,C0237607,[menp],50/12
-History of malignant neoplasm of skin,C1998317,[fndg],20/22
-Personal history of primary malignant neoplasm of skin,C1387403,[fndg],20/22
-Benign melanocytic nevus,C1456781,[neop],69/4
-DUOXA1 gene,C1824986,[gngm],69/4
-Melanocytic nevus of skin,C3665593,[neop],69/4
-"Mole, unit of measurement",C0439189,[qnco],69/4
-Nevus,C0027960,[neop],69/4
-Recurrence,C0034897,[phpr],137/10
-Recurrence (disease attribute),C2825055,[patf],137/10
-Recurrent Malignant Neoplasm,C1458156,[neop],137/10
-Talpidae,C0324740,[mamm],69/4
-Appearance,C0700364,[qlco],94/10
-Appearance Distress Question,C4084721,[inpr],94/10
-Changed status,C0443172,[qnco],83/7
-Changing,C0392747,[ftcn],83/7
-Personal appearance,C0233426,[orga],94/10
-New,C0205314,[qlco],65/3
-Newar Language,C4724144,[lang],65/3
-Potential,C3245505,[qlco],127/9
-Condition,C0348080,[qlco],121/9
-Condition Domain,C4722256,[inpr],121/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],121/9
-Diabetes,C0011847,[dsyn],90/8
-Diabetes Mellitus,C0011849,[dsyn],90/8
-Disease,C0012634,[dsyn],121/9
-Increase,C0442805,[ftcn],53/9
-Increased,C0205217,[qlco],53/9
-Increased frequency of micturition,C0042023,[fndg],30/18
-Logical Condition,C1705253,[cnce],121/9
-Patients,C0030705,[podg],6/7
-Thirst,C0039971,[phsf],63/6
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Intervention regimes,C1273869,[hlca],140/12
-Interventional procedure,C0184661,[topp],140/12
-Nursing interventions,C0886296,[hlca],140/12
-Patients,C0030705,[podg],6/7
-Self-Injurious Behavior,C0085271,[inbe],91/9
-Self-harm,C0424366,[fndg],91/9
-Attention,C0004268,[menp],126/9
-Attention G-code,C4281780,[inpr],126/9
-Depressed mood,C0344315,[mobd],38/10
-Depression - recess,C4085311,[qlco],38/10
-Depression Scale (BASC-2),C4049644,[inpr],38/10
-Depression Subordinate Domain,C4084909,[inpr],38/10
-Depression Visual Analogue Scale,C4553827,[inpr],38/10
-Depression motion,C0460137,[ftcn],38/10
-Depressive disorder,C0011581,[mobd],38/10
-Diagnosis,C0011900,[diap],23/9
-Mental Depression,C0011570,[mobd],38/10
-"Thinking, function",C0039869,[menp],79/8
-Thought,C4319827,[idcn],79/8
-Immediate,C0205253,[tmco],116/9
-Stat (do immediately),C0205548,[tmco],116/9
-Current (present time),C0521116,[tmco],56/9
-Experience,C0596545,[menp],66/12
-Practice Experience,C0237607,[menp],66/12
-Hyperkinesia,C3887506,[dsyn],30/13
-Patients,C0030705,[podg],6/7
-Spasm,C0037763,[sosy],30/13
-Weakness,C3714552,[sosy],48/8
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-nervous system disorder,C0027765,[dsyn],79/21
-MS gene,C1417325,[gngm],109/18
-Multiple Sclerosis,C0026769,[dsyn],109/18
-Anemia,C0002871,[dsyn],110/6
-"Anemia, CTCAE",C4554633,[fndg],110/6
-Genus Anemia,C1000483,[plnt],110/6
-laboratory results,C1254595,[lbtr],6/18
-Show,C1547282,[anim],25/6
-Iron level result,C0428578,[lbtr],"36/6,46/4"
-Iron measurement,C0337439,[lbpr],"36/6,46/4"
-HEMOGLOBIN S PHENOTYPE,C3888302,[fndg],55/13
-Sickle Cell Trait,C0037054,[dsyn],55/13
-Sickle Hemoglobin,C0019043,"[aapp,bacs]",55/13
-Levels (qualifier value),C0441889,[qlco],36/6
-Iron low,C0860975,[fndg],"32/3,46/4"
-IPSS Risk Category Low,C4522223,[inpr],32/3
-IPSS-R Risk Category Low,C5203106,[fndg],32/3
-Low Level,C4321351,[fndg],32/3
-Low Mitosis-Karyorrhexis Index,C3890211,[qnco],32/3
-low,C0205251,[qlco],32/3
-low confidentiality,C1550472,[inpr],32/3
-low exposure,C4048187,[qlco],32/3
-Blood,C0005767,[bdsu],84/5
-In Blood,C0005768,[bdsu],84/5
-Patients,C0030705,[podg],73/7
-peripheral blood,C0229664,[bdsu],84/5
-Abdominal Pain,C0000737,[sosy],76/14
-"Abdominal Pain, CTCAE 5",C4554323,[fndg],76/14
-Bleeding ulcer,C0333291,[dsyn],130/14
-Current (present time),C0521116,[tmco],53/9
-Feces color: tarry,C0474585,[sosy],95/12
-Melena,C0025222,[patf],95/12
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],63/12
-Practice Experience,C0237607,[menp],63/12
-H/O: gastric ulcer,C0559165,[fndg],20/25
-Patients,C0030705,[podg],6/7
-Family history of Parkinson's disease,C0574092,[fndg],"18/29,51/7"
-Tremor,C0040822,[sosy],89/7
-Onset of illness,C0277793,[tmco],"150/5,163/9"
-Has difficulty doing (qualifier value),C1299586,[fndg],101/10
-Current (present time),C0521116,[tmco],66/9
-Experience,C0596545,[menp],76/12
-Practice Experience,C0237607,[menp],76/12
-Movement,C0026649,[orgf],117/8
-Administration procedure,C1533734,[topp],117/9
-Biomaterial Treatment,C1705169,[cnce],117/9
-Therapeutic procedure,C0087111,[topp],117/9
-Treating,C1522326,[ftcn],117/9
-Treatment Epoch,C3538994,[resa],117/9
-therapeutic aspects,C0039798,[ftcn],117/9
-treatment - ActInformationManagementReason,C3887704,[hlca],117/9
-Show,C1547282,[anim],19/6
-Cancer Genus,C0998265,[euka],72/9
-Malignant Neoplasms,C0006826,[neop],72/9
-Primary malignant neoplasm,C1306459,[neop],72/9
-Blood Products Laboratory Testing,C3831328,[lbpr],14/4
-Evaluation,C0220825,[hlca],102/10
-Evaluation procedure,C1261322,[hlca],102/10
-Laboratory Procedures,C0022885,[lbpr],14/4
-Test - temporal region,C4318744,[blor],14/4
-Test Result,C0456984,[lbtr],14/4
-Testing,C0039593,[ftcn],14/4
-Tests (qualifier value),C0392366,[inpr],14/4
-Renal mass,C0262613,[fndg],"28/4,51/6"
-Diagnostic Imaging,C0011923,[diap],6/7
-Further,C1517331,[spco],94/7
-Imaging Techniques,C0079595,[diap],6/7
-Patients,C0030705,[podg],40/7
-Administration occupational activities,C0001554,[ocac],100/10
-Disease Management,C0376636,[hlca],100/10
-GDC Treatment Outcome Terminology,C5202850,[inpr],111/2
-Management Occupations,C3273539,[ocdi],100/10
-Management procedure,C1273870,[ocac],100/10
-PREVENT (product),C0309872,[phsu],114/7
-Patients,C0030705,[podg],6/7
-To,C1883351,[qlco],111/2
-Tryptophanase,C0041260,"[aapp,enzy]",111/2
-"Chronic Kidney Disease, CTCAE",C4553188,[fndg],38/22
-Chronic Kidney Diseases,C1561643,[dsyn],38/22
-Monitoring - action,C1283169,[hlca],85/10
-Preventive monitoring,C0150369,[hlca],85/10
-Kidney damage,C1408258,[fndg],"130/6,144/7"
-Diagnosis,C0011900,[diap],23/9
-Continuous,C0549178,[idcn],77/7
-Further,C1517331,[spco],122/7
-Cardiovascular Diseases,C0007222,[dsyn],121/24
-Chest discomfort,C0235710,[sosy],30/16
-Dyspnea,C0013404,[sosy],51/19
-Have Shortness of Breath question,C3274920,[inpr],51/19
-How Much Distress Shortness of Breath,C4084764,[inpr],51/19
-How Often Shortness of Breath,C4084763,[inpr],51/19
-Patients,C0030705,[podg],6/7
-Pulmonary Embolism,C0034065,[patf],93/18
-Shortness of Breath Visual Analogue Scale,C4553552,[inpr],51/19
-Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],51/19
-Usual Severity Shortness of Breath,C4084762,[inpr],51/19
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Disease,C0012634,[dsyn],101/7
-Liver damage,C0151763,[patf],85/12
-laboratory results,C1254595,[lbtr],6/18
-Show,C1547282,[anim],25/6
-Elevated liver enzymes level,C0857093,[fndg],"32/15,51/13"
-Patients,C0030705,[podg],6/7
-Social withdrawal,C0424095,[fndg],101/17
-H/O: depression,C0455503,[fndg],20/21
-Feeling hopeless,C0150041,[menp],72/24
-Approach,C0449445,[spco],160/8
-Administration procedure,C1533734,[topp],150/9
-Biomaterial Treatment,C1705169,[cnce],150/9
-Change -- procedure,C4319952,[topp],140/6
-Changed status,C0443172,[qnco],140/6
-Changing,C0392747,[ftcn],140/6
-Delta (difference),C1705241,[qnco],140/6
-Therapeutic procedure,C0087111,[topp],150/9
-Treating,C1522326,[ftcn],150/9
-Treatment Epoch,C3538994,[resa],150/9
-therapeutic aspects,C0039798,[ftcn],150/9
-treatment - ActInformationManagementReason,C3887704,[hlca],150/9
-Current (present time),C0521116,[tmco],49/9
-Experience,C0596545,[menp],59/12
-Practice Experience,C0237607,[menp],59/12
-Diarrhea,C0011991,[sosy],"110/8;93/8,110/8"
-Abdomen distended,C0000731,[fndg],123/8
-Abdominal bloating,C1291077,[sosy],123/8
-"Bloating, CTCAE",C4553115,[fndg],123/8
-Current (present time),C0521116,[tmco],60/9
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],70/12
-Practice Experience,C0237607,[menp],70/12
-Family history of celiac disease,C2316251,[fndg],20/32
-Digestive symptom,C0476288,[sosy],83/18
-Presence (property),C3854307,[qlco],156/8
-Present,C0150312,[fndg],156/8
-Providing presence (regime/therapy),C0392148,[topp],156/8
-Condition,C0348080,[qlco],172/9
-Condition Domain,C4722256,[inpr],172/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],172/9
-"Diarrhea, CTCAE",C1963091,[fndg],110/8
-Digestion,C0012238,[orgf],83/9
-Disease,C0012634,[dsyn],172/9
-Gastrointestinal system,C0012240,[bdsy],83/9
-Have Diarrhea,C3641756,[inpr],110/8
-How Much Distress Diarrhea,C4084784,[inpr],110/8
-How Often Diarrhea,C4085317,[inpr],110/8
-Logical Condition,C1705253,[cnce],172/9
-Usual Severity Diarrhea,C4084802,[inpr],110/8
-Abnormal vision,C3665386,[fndg],107/11
-Administration procedure,C1533734,[topp],86/9
-Biomaterial Treatment,C1705169,[cnce],86/9
-Blindness,C0456909,[dsyn],107/11
-GDC Treatment Outcome Terminology,C5202850,[inpr],96/2
-PREVENT (product),C0309872,[phsu],99/7
-Patients,C0030705,[podg],6/7
-Therapeutic procedure,C0087111,[topp],86/9
-To,C1883351,[qlco],96/2
-Treating,C1522326,[ftcn],86/9
-Treatment Epoch,C3538994,[resa],86/9
-Tryptophanase,C0041260,"[aapp,enzy]",96/2
-Unspecified visual loss,C3665346,[sosy],107/11
-Visual Impairment,C3665347,[fndg],107/11
-therapeutic aspects,C0039798,[ftcn],86/9
-treatment - ActInformationManagementReason,C3887704,[hlca],86/9
-Monitoring - action,C1283169,[hlca],71/10
-Preventive monitoring,C0150369,[hlca],71/10
-Diagnosis,C0011900,[diap],23/9
-Glaucoma,C0017601,[dsyn],38/8
-Glaucoma (eukaryote),C0997768,[euka],38/8
-"Glaucoma, CTCAE",C1962986,[fndg],38/8
-Continuous,C0549178,[idcn],63/7
-Coordinated,C0700114,[ftcn],58/12
-Patients,C0030705,[podg],6/7
-Physiologic Coordination,C0242414,[phsf],58/12
-nervous system disorder,C0027765,[dsyn],93/21
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Ear problem,C0262174,[fndg],124/11
-Difficulty balancing,C1744587,[fndg],"30/10,46/7"
-Problem,C0033213,[fndg],128/7
-Problem:Find:Pt:^Patient:Nom,C3854081,[clna],128/7
-Labyrinth,C0022889,[bpoc],118/9
-Internal,C0205102,[spco],118/5
-laboratory results,C1254595,[lbtr],6/18
-Show,C1547282,[anim],25/6
-heart disease risk,C1113667,[fndg],"138/4,146/13"
-Cholesterol level test result,C0428466,[lbtr],"41/6,51/11"
-Cholesterol measurement test,C0201950,[lbpr],"41/6,51/11"
-blood triglycerides,C0518018,[lbpr],"67/13,99/5"
-Levels (qualifier value),C0441889,[qlco],41/6
-Increase,C0442805,[ftcn],128/9
-Increased,C0205217,[qlco],128/9
-Hypercholesterolemia,C0020443,[dsyn],"32/8,51/11"
-Elevated,C3163633,[qlco],32/8
-High,C0205250,[qlco],32/8
-DIAPH3 wt Allele,C4321249,[gngm],125/2
-Patients,C0030705,[podg],88/7
-Current (present time),C0521116,[tmco],49/9
-Disease,C0012634,[dsyn],145/7
-Icterus,C0022346,[sosy],87/21
-"Liver Pain, CTCAE",C1963161,[fndg],72/10
-Liver damage,C0151763,[patf],129/12
-Liver pain,C0522067,[sosy],72/10
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],59/12
-Practice Experience,C0237607,[menp],59/12
-H/O: alcoholism,C0455500,[fndg],20/21
-Angina Pectoris,C0002962,[sosy],102/6
-Cardiovascular Diseases,C0007222,[dsyn],120/24
-Chest Pain,C0008031,[sosy],30/10
-Chest pain:Finding:Point in time:^Patient:Ordinal,C2926613,[clna],30/10
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Exercise,C0015259,[dora],64/17
-Physical activity,C0026606,[dora],64/17
-Exacerbated,C1444749,[qlco],49/11
-Symptom aggravating factors,C0436331,[fndg],49/11
-Bothered by Weight Gain,C4084773,[inpr],96/11
-Current (present time),C0521116,[tmco],61/9
-Fatigue,C0015672,[sosy],84/7
-Fatigue Subordinate Domain,C4050243,[inpr],84/7
-"Fatigue, CTCAE 5.0",C4554645,[fndg],84/7
-Feel Fatigue,C3463815,[inpr],84/7
-Have Gained Weight,C3889988,[inpr],96/11
-Hypothyroidism,C0020676,[dsyn],131/19
-Patients,C0030705,[podg],6/7
-Weight Gain,C0043094,[fndg],96/11
-"Weight Gain, CTCAE",C2911647,[fndg],96/11
-Experience,C0596545,[menp],71/12
-Practice Experience,C0237607,[menp],71/12
-history (of) disease family,C0850707,[fndg],"20/17,46/7"
-THYROID DIAGNOSTIC RADIOPHARMACEUTICALS,C3540038,[irda],38/7
-Thyroid Gland,C0040132,[bpoc],38/7
-GDC Treatment Outcome Terminology,C5202850,[inpr],96/2
-To,C1883351,[qlco],96/2
-Tryptophanase,C0041260,"[aapp,enzy]",96/2
-Show,C1547282,[anim],19/6
-Cancer Genus,C0998265,[euka],123/9
-Malignant Neoplasms,C0006826,[neop],123/9
-Primary malignant neoplasm,C1306459,[neop],123/9
-Blood Products Laboratory Testing,C3831328,[lbpr],14/4
-Evaluation,C0220825,[hlca],85/10
-Evaluation procedure,C1261322,[hlca],85/10
-Laboratory Procedures,C0022885,[lbpr],14/4
-Test - temporal region,C4318744,[blor],14/4
-Test Result,C0456984,[lbtr],14/4
-Testing,C0039593,[ftcn],14/4
-Tests (qualifier value),C0392366,[inpr],14/4
-Mass in breast,C0024103,[fndg],"28/7,51/6"
-Diagnostic Imaging,C0011923,[diap],6/7
-Further,C1517331,[spco],77/7
-Imaging Techniques,C0079595,[diap],6/7
-Patients,C0030705,[podg],40/7
-Current (present time),C0521116,[tmco],62/9
-Intervention regimes,C1273869,[hlca],139/12
-Interventional procedure,C0184661,[topp],139/12
-Nursing interventions,C0886296,[hlca],139/12
-Patients,C0030705,[podg],6/7
-manic symptom,C0746402,[mobd],85/14
-Experience,C0596545,[menp],72/12
-Practice Experience,C0237607,[menp],72/12
-Attention,C0004268,[menp],125/9
-Attention G-code,C4281780,[inpr],125/9
-Bipolar Disorder,C0005586,[mobd],38/16
-Diagnosis,C0011900,[diap],23/9
-Immediate,C0205253,[tmco],115/9
-Stat (do immediately),C0205548,[tmco],115/9
-Cerebrovascular accident,C0038454,[dsyn],88/6
-Languages,C0023008,[lang],57/8
-Patients,C0030705,[podg],6/7
-"Stroke, CTCAE",C4554100,[fndg],88/6
-nervous system disorder,C0027765,[dsyn],104/22
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Speech impairment,C0233715,[fndg],"30/10,46/6"
-Inflammatory disorder,C1290884,[dsyn],125/22
-laboratory results,C1254595,[lbtr],6/18
-Show,C1547282,[anim],25/6
-Levels (qualifier value),C0441889,[qlco],41/6
-Presence (property),C3854307,[qlco],96/8
-Present,C0150312,[fndg],96/8
-Providing presence (regime/therapy),C0392148,[topp],96/8
-Elevated inflammatory markers,C3276087,[fndg],"32/8,51/20"
-Autoimmune,C4551524,[ftcn],111/10
-Autoimmune reaction,C0443146,[patf],111/10
-Hyperthyroidism,C0020550,[dsyn],87/15
-"Hyperthyroidism, CTCAE",C4551916,[fndg],87/15
-Hypothyroidism,C0020676,[dsyn],106/14
-"Hypothyroidism, CTCAE",C4553310,[fndg],106/14
-Patients,C0030705,[podg],6/7
-Uncertain - Response,C4085655,[fndg],59/9
-Uncertainty,C0087130,[fndg],59/9
-Concept History,C1705255,[cnce],20/7
-Historical aspects qualifier,C0019665,[ftcn],20/7
-History,C0019664,[ocdi],20/7
-History of present illness,C0262512,[fndg],20/7
-History of previous events,C2004062,[fndg],20/7
-Medical History,C0262926,[fndg],20/7
-Thyroid Alteration,C0851024,[fndg],31/16
-Dehydration,C0011175,[dsyn],94/11
-Dehydration procedure,C4284399,[lbpr],94/11
-Hyperkinesia,C3887506,[dsyn],30/13
-Patients,C0030705,[podg],6/7
-Spasm,C0037763,[sosy],30/13
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Due to,C0678226,[ftcn],60/6
-nervous system disorder,C0027765,[dsyn],69/21
-Biospecimen Events Domain,C3811654,[inpr],57/2
-Exist,C2987476,[qlco],57/2
-Condition,C0348080,[qlco],110/9
-Condition Domain,C4722256,[inpr],110/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],110/9
-Disease,C0012634,[dsyn],110/9
-Logical Condition,C1705253,[cnce],110/9
-Patients,C0030705,[podg],6/7
-Uncertain - Response,C4085655,[fndg],62/9
-Uncertainty,C0087130,[fndg],62/9
-Family history of cancer of colon,C0730200,[fndg],20/30
-American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],92/9
-High Risk Acute Leukemia,C4050568,[fndg],92/9
-High risk,C4319571,[fndg],92/9
-High risk of,C0332167,[fndg],92/9
-IPSS-R Risk Category High,C5202936,[fndg],92/9
-International Prognostic Index High Risk Group,C5202937,[fndg],92/9
-are unit of measure,C1551058,[qnco],85/3
-Due to,C0678226,[ftcn],68/6;68/3
-Exposure to,C0332157,[qlco],75/8;72/11
-Medical Condition,C4745084,[fndg],103/17
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Tinnitus,C0040264,[dsyn],"30/10,47/4"
-Noise,C0028263,[phpr],92/5
-Biospecimen Events Domain,C3811654,[inpr],65/2
-Due,C3146286,[idcn],68/3
-Exist,C2987476,[qlco],65/2
-Injury due to exposure to external cause,C0274281,[inpo],75/8
-Loudness,C0178733,[qlco],87/4
-Benign,C0205183,[qlco],105/6
-Patients,C0030705,[podg],6/7
-Cancer Genus,C0998265,[euka],92/9
-Malignant Neoplasms,C0006826,[neop],92/9
-Primary malignant neoplasm,C1306459,[neop],92/9
-History of malignant neoplasm of skin,C1998317,[fndg],20/22
-Personal history of primary malignant neoplasm of skin,C1387403,[fndg],20/22
-Lesion,C0221198,[fndg],82/6
-Specimen Source Codes - Lesion,C1546698,[inpr],82/6
-Current (present time),C0521116,[tmco],74/7
-Electrical Current,C1705970,[npop],74/7
-Hypesthesia,C0020580,[fndg],30/8
-Numbness,C0028643,[sosy],30/8
-Patients,C0030705,[podg],6/7
-Condition,C0348080,[qlco],118/10
-Condition Domain,C4722256,[inpr],118/10
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],118/10
-Disease,C0012634,[dsyn],118/10
-Experience,C0596545,[menp],17/12
-Logical Condition,C1705253,[cnce],118/10
-Practice Experience,C0237607,[menp],17/12
-Due to,C0678226,[ftcn],89/6
-Nerve injury,C0161479,[inpo],96/12
-Has tingling sensation,C2242996,[sosy],43/8
-Paresthesia,C0030554,[dsyn],43/8
-Biospecimen Events Domain,C3811654,[inpr],86/2
-Exist,C2987476,[qlco],86/2
-All extremities,C0278454,[bpoc],61/11
-Limb structure,C0015385,[bpoc],61/11
-Condition,C0348080,[qlco],116/9
-Condition Domain,C4722256,[inpr],116/9
-Condition:Find:Pt:^Patient:Nom,C3864998,[clna],116/9
-Disease,C0012634,[dsyn],116/9
-Logical Condition,C1705253,[cnce],116/9
-Patients,C0030705,[podg],6/7
-Uncertain - Response,C4085655,[fndg],68/9
-Uncertainty,C0087130,[fndg],68/9
-history (of) disease family,C0850707,[fndg],"20/17,49/7"
-American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],98/9
-High Risk Acute Leukemia,C4050568,[fndg],98/9
-High risk,C4319571,[fndg],98/9
-High risk of,C0332167,[fndg],98/9
-IPSS-R Risk Category High,C5202936,[fndg],98/9
-International Prognostic Index High Risk Group,C5202937,[fndg],98/9
-are unit of measure,C1551058,[qnco],91/3
-Autoimmune,C4551524,[ftcn],38/10
-Autoimmune reaction,C0443146,[patf],38/10
-Alopecia,C0002170,[dsyn],30/9
-Have Hair Loss,C4084793,[inpr],30/9
-How Much Distress Hair Loss,C4084894,[inpr],30/9
-How Often Hair Loss,C4084893,[inpr],30/9
-Patients,C0030705,[podg],6/7
-Usual Severity Hair Loss,C4084792,[inpr],30/9
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Adverse reaction to drug,C0041755,[patf],"88/11,103/10"
-Has shown side effects from medication,C2364092,[fndg],"88/11,103/10"
-Due to,C0678226,[ftcn],56/6
-Medical Condition,C4745084,[fndg],65/17
-Biospecimen Events Domain,C3811654,[inpr],53/2
-Exist,C2987476,[qlco],53/2
-Anxiety,C0003467,[mobd],116/7
-Anxiety Disorders,C0003469,[mobd],116/7
-Anxiety Scale (BASC-2),C4050613,[inpr],116/7
-Anxiety Visual Analogue Scale,C4553381,[inpr],116/7
-"Anxiety, CTCAE 5.0",C4552735,[fndg],116/7
-Patients,C0030705,[podg],6/7
-Uncertain - Response,C4085655,[fndg],61/9
-Uncertainty,C0087130,[fndg],61/9
-History of palpitations,C3532616,[fndg],"20/10,37/12"
-Due to,C0678226,[ftcn],88/6
-Heart condition,C3842523,[fndg],97/15
-are unit of measure,C1551058,[qnco],84/3
-Heart,C0018787,[bpoc],31/5
-Abdomen distended,C0000731,[fndg],30/18
-Abdominal bloating,C1291077,[sosy],30/18
-Discomfort,C2364135,[sosy],53/10
-Food intolerance (disorder),C0149696,[dsyn],111/16
-How Often Experienced Abdominal Bloating,C4554320,[inpr],30/18
-Patients,C0030705,[podg],6/7
-Experience,C0596545,[menp],17/12
-Practice Experience,C0237607,[menp],17/12
-Digestive System Disorders,C0012242,[dsyn],89/18
-Due to,C0678226,[ftcn],80/6
-Biospecimen Events Domain,C3811654,[inpr],77/2
-Exist,C2987476,[qlco],77/2
+preferred_name,cui,semtypes,score
+Severe Extremity Pain,C4050465,[fndg],7.19
+Dyspnea,C0013404,[sosy],5.18
+Have Shortness of Breath question,C3274920,[inpr],5.18
+How Much Distress Shortness of Breath,C4084764,[inpr],5.18
+How Often Shortness of Breath,C4084763,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Shortness of Breath Visual Analogue Scale,C4553552,[inpr],5.18
+Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],5.18
+Usual Severity Shortness of Breath,C4084762,[inpr],5.18
+cardiac event,C0741923,[dsyn],5.18
+Chest Pain,C0008031,[sosy],3.61
+Chest pain:Finding:Point in time:^Patient:Ordinal,C2926613,[clna],3.61
+Neck Pain Score 6,C4521229,[fndg],3.60
+Severe pain,C0278140,[fndg],3.60
+Anterior thoracic region,C1527391,[blor],3.56
+Borg Category-Ratio 10 Perceived Exertion Score 5,C4050466,[fndg],3.56
+Chest,C0817096,[blor],3.56
+Epidermal cGVHD Score 4,C4761449,[fndg],3.56
+Intensity and Distress 5,C5203119,[fndg],3.56
+Present,C0150312,[fndg],3.56
+Presentation,C0449450,[idcn],3.56
+Severe (severity modifier),C0205082,[fndg],3.56
+Severe Hallucination,C4722466,[fndg],3.56
+Liver,C0023884,[bpoc],5.18
+Liver Flavor,C2346688,[food],5.18
+Show,C1547282,[anim],3.98
+Cell Growth,C0007595,[celf],3.75
+Biopsy,C0005558,[diap],3.68
+biopsy characteristics,C0220797,[fndg],3.68
+Experimental Result,C2825142,[fndg],3.63
+Result,C1274040,[ftcn],3.63
+What subject filter - Result,C1546471,[idcn],3.63
+Liver and Intrahepatic Biliary Tract Carcinoma,C0279000,[neop],3.51
+Malignant neoplasm of liver,C0345904,[neop],3.51
+Possible,C0332149,[fndg],3.50
+Possible diagnosis,C2362652,[qlco],3.50
+Possibly Related to Intervention,C1705910,[qlco],3.50
+Abnormal,C0205161,[fndg],3.44
+Abnormal Reference Range,C2699333,[inpr],3.44
+Percent of Abnormal Cells,C2347472,[qnco],3.44
+Blood,C0005767,[bdsu],5.18
+In Blood,C0005768,[bdsu],5.18
+Patients,C0030705,[podg],5.18
+peripheral blood,C0229664,[bdsu],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Glucose level - finding,C0428548,[lbtr],3.62
+Presence (property),C3854307,[qlco],3.57
+Present,C0150312,[fndg],3.57
+Providing presence (regime/therapy),C0392148,[topp],3.57
+Diabetes,C0011847,[dsyn],3.44
+Diabetes Mellitus,C0011849,[dsyn],3.44
+Elevated,C3163633,[qlco],3.44
+High,C0205250,[qlco],3.44
+CYREN gene,C1824234,[gngm],5.18
+Magnetic Resonance Imaging,C0024485,[diap],5.18
+Magnetic Resonance Imaging Study File,C3890166,[inpr],5.18
+Maori Language,C0376248,[lang],5.18
+Revealed,C0443289,[qlco],5.18
+Multiple lesions,C0577305,[fndg],3.61
+Lesion of brain,C0221505,[dsyn],3.60
+Presence (property),C3854307,[qlco],3.56
+Present,C0150312,[fndg],3.56
+Providing presence (regime/therapy),C0392148,[topp],3.56
+MS gene,C1417325,[gngm],3.46
+Multiple Sclerosis,C0026769,[dsyn],3.46
+Brain,C0006104,[bpoc],3.43
+Numerous,C0439064,[qnco],3.43
+Current (present time),C0521116,[tmco],5.18
+Headache,C0018681,[sosy],5.18
+"Headache, CTCAE",C4553197,[fndg],5.18
+Hypertensive crisis,C0020546,[patf],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: hypertension,C0455527,[fndg],3.77
+,,,
+Patients,C0030705,[podg],5.18
+Progressive Disease,C1335499,[dsyn],3.78
+Progressive Neoplastic Disease,C0677932,[neop],3.78
+Progressive cGVHD,C3539781,[dsyn],3.78
+Progressive disorder,C1864985,[fndg],3.78
+Respiration Disorders,C0035204,[dsyn],3.75
+Respiratory Tract Diseases,C0035242,[dsyn],3.75
+Chronic Obstructive Airway Disease,C0024117,[dsyn],3.72
+Diagnosis,C0011900,[diap],3.55
+Progressive,C0205329,[ftcn],3.48
+Specimen Source Codes - Respiratory,C1546767,[inpr],3.48
+respiratory,C0521346,[ftcn],3.48
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Presence of infection,C0449970,[fndg],3.65
+Levels (qualifier value),C0441889,[qlco],3.55
+White blood cell count increased (lab result),C0750426,[fndg],3.50
+BREAST PAIN FEMALE,C0553713,[sosy],5.18
+"Breast Pain, CTCAE 5.0",C4554623,[fndg],5.18
+Current (present time),C0521116,[tmco],5.18
+Mastodynia,C0024902,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Family history of breast cancer,C0559119,[fndg],3.85
+Family history of malignant neoplasm of breast,C1261325,[fndg],3.85
+Act Class - investigation,C1552578,[inpr],3.68
+Evaluation,C0220825,[hlca],3.68
+Evaluation procedure,C1261322,[hlca],3.68
+Further,C1517331,[spco],3.50
+Arthralgia,C0003862,[sosy],5.18
+Current (present time),C0521116,[tmco],5.18
+"Joint Pain, CTCAE 3",C1963066,[fndg],5.18
+Level of Joint Pain,C4085641,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Stiffness,C0427008,[sosy],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: rheumatoid arthritis,C0455571,[fndg],3.81
+Flare-up,C3830105,[fndg],3.59
+Condition,C0348080,[qlco],3.43
+Condition Domain,C4722256,[inpr],3.43
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.43
+Disease,C0012634,[dsyn],3.43
+Logical Condition,C1705253,[cnce],3.43
+,,,
+Electro-Encephalogram,C1547121,[spco],5.18
+Electroencephalogram,C1527380,[lbtr],5.18
+Electroencephalography,C0013819,[diap],5.18
+Show,C1547282,[anim],3.98
+Brain activity,C0443158,[phsf],3.70
+Presence (property),C3854307,[qlco],3.57
+Present,C0150312,[fndg],3.57
+Providing presence (regime/therapy),C0392148,[topp],3.57
+Abnormal,C0205161,[fndg],3.47
+Abnormal Reference Range,C2699333,[inpr],3.47
+Percent of Abnormal Cells,C2347472,[qnco],3.47
+WASF1 gene,C1421479,[gngm],3.47
+wave - physical agent,C0678544,[npop],3.47
+Epilepsy,C0014544,[dsyn],3.44
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+Metastasis,C4255448,[patf],5.18
+Neoplasm Metastasis,C0027627,[neop],5.18
+PREVENT (product),C0309872,[phsu],5.18
+Patients,C0030705,[podg],5.18
+Secondary Neoplasm,C2939419,[neop],5.18
+To,C1883351,[qlco],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+Stage III Cutaneous Melanoma AJCC v6,C0278882,[neop],3.68
+Administration procedure,C1533734,[topp],3.68
+Biomaterial Treatment,C1705169,[cnce],3.68
+Therapeutic procedure,C0087111,[topp],3.68
+Treating,C1522326,[ftcn],3.68
+Treatment Epoch,C3538994,[resa],3.68
+therapeutic aspects,C0039798,[ftcn],3.68
+treatment - ActInformationManagementReason,C3887704,[hlca],3.68
+Diagnosis,C0011900,[diap],3.56
+Aggressive behavior,C0001807,[inbe],3.50
+Aggressive course,C0580822,[tmco],3.50
+Aortic Valve Stenosis,C0003507,[dsyn],5.18
+Control Valve Device,C1707505,[mnob],5.18
+Echocardiogram (image),C2243117,[inpr],5.18
+Echocardiography,C0013516,[diap],5.18
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+Medical Valves,C0184252,[medd],5.18
+Repair,C4319951,[ftcn],5.18
+Revealed,C0443289,[qlco],5.18
+Surgical intervention (finding),C0549433,[fndg],5.18
+Surgical repair,C0374711,[topp],5.18
+To,C1883351,[qlco],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+Valve (physical object),C3888056,[mnob],5.18
+Valve Device,C1704414,[medd],5.18
+Wound Healing,C0043240,[orgf],5.18
+anatomic valve,C1186983,[bpoc],5.18
+Current (present time),C0521116,[tmco],5.18
+Patients,C0030705,[podg],5.18
+Visual disturbance,C0547030,[fndg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: migraine,C0455512,[fndg],3.75
+Age of Onset,C0206132,[qnco],3.55
+Onset of (contextual qualifier),C0332162,[qlco],3.55
+Episode of,C0332189,[tmco],3.45
+Migraine Disorders,C0149931,[dsyn],3.43
+Deficiency,C0011155,[ftcn],5.18
+Increase,C0442805,[ftcn],5.18
+Malnutrition,C0162429,[dsyn],5.18
+Vitamin D Deficiency,C0042870,[dsyn],5.18
+deficiency aspects,C1623416,[qlco],5.18
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Risk,C0035647,[idcn],3.56
+Subject Risk,C4552904,[cnce],3.56
+Fracture,C0016658,[inpo],3.48
+Disease,C0012634,[dsyn],6.90
+Amnesia,C0002622,[mobd],5.18
+Memory Loss,C0751295,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+FH: Alzheimer's disease,C1271045,[fndg],3.72
+Evaluation,C0220825,[hlca],3.56
+Evaluation procedure,C1261322,[hlca],3.56
+Condition,C0348080,[qlco],3.43
+Condition Domain,C4722256,[inpr],3.43
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.43
+Further,C1517331,[spco],3.43
+Logical Condition,C1705253,[cnce],3.43
+Precancerous Conditions,C0032927,[neop],5.18
+Colonic Polyps,C0009376,[anab],3.57
+Consent Type - Colonoscopy,C1548837,[hlca],3.42
+Revealed,C0443289,[qlco],3.42
+colonoscopy,C0009378,[diap],3.42
+Current (present time),C0521116,[tmco],5.18
+Dyspnea,C0013404,[sosy],5.18
+Exacerbation of asthma,C0349790,[fndg],5.18
+Have Shortness of Breath question,C3274920,[inpr],5.18
+How Much Distress Shortness of Breath,C4084764,[inpr],5.18
+How Often Shortness of Breath,C4084763,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Shortness of Breath Visual Analogue Scale,C4553552,[inpr],5.18
+Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],5.18
+Usual Severity Shortness of Breath,C4084762,[inpr],5.18
+Wheezing,C0043144,[sosy],5.18
+"Wheezing, CTCAE",C4553925,[fndg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: asthma,C0455544,[fndg],3.77
+Disease,C0012634,[dsyn],5.18
+In Urine,C0042037,[ftcn],5.18
+Kidney damage,C1408258,[fndg],5.18
+Portion of urine,C2963137,[bdsu],5.18
+Urinalysis,C0042014,[lbpr],5.18
+Urine,C0042036,[bdsu],5.18
+Show,C1547282,[anim],3.98
+Presence (property),C3854307,[qlco],3.57
+Present,C0150312,[fndg],3.57
+Providing presence (regime/therapy),C0392148,[topp],3.57
+Proteins,C0033684,"[aapp,bacs]",3.44
+Patients,C0030705,[podg],5.18
+Therapeutic procedure,C0087111,[topp],5.18
+Therapy Object (animal model),C1363945,[fndg],5.18
+therapeutic aspects,C0039798,[ftcn],5.18
+Bipolar Disorder,C0005586,[mobd],3.64
+Administration of medication,C3469597,[topp],3.62
+Medication Management,C0150270,[hlca],3.62
+Diagnosis,C0011900,[diap],3.57
+Continuous,C0549178,[idcn],3.44
+Blood culture,C0200949,[lbpr],5.18
+Communicable Diseases,C0009450,[dsyn],5.18
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+Infection,C3714514,[patf],5.18
+To,C1883351,[qlco],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+Show,C1547282,[anim],3.98
+Administration of antibiotic,C0199779,[topp],3.75
+Presence of infection,C0449970,[fndg],3.62
+Target,C1521840,[ftcn],3.48
+Bacterial,C0521009,[qlco],3.43
+Patients,C0030705,[podg],5.18
+Cancer Genus,C0998265,[euka],3.82
+Malignant Neoplasms,C0006826,[neop],3.82
+Primary malignant neoplasm,C1306459,[neop],3.82
+Lung mass,C0149726,[fndg],3.60
+Communicable Diseases,C0009450,[dsyn],5.18
+Infection,C3714514,[patf],5.18
+Inflammation,C0021368,[patf],5.18
+Patients,C0030705,[podg],5.18
+White blood cell count increased (lab result),C0750426,[fndg],5.18
+Inconclusive (qualifier value),C1629507,[qlco],5.18
+Indeterminate,C0205258,[qlco],5.18
+Testing,C0039593,[ftcn],3.68
+Tests (qualifier value),C0392366,[inpr],3.68
+Test Result,C0456984,[lbtr],3.58
+Further,C1517331,[spco],3.50
+Diagnostic Imaging,C0011923,[diap],3.43
+Imaging Techniques,C0079595,[diap],3.43
+Causing,C0678227,[ftcn],5.18
+Patients,C0030705,[podg],5.18
+Concept History,C1705255,[cnce],3.56
+Historical aspects qualifier,C0019665,[ftcn],3.56
+History,C0019664,[ocdi],3.56
+History of present illness,C0262512,[fndg],3.56
+History of previous events,C2004062,[fndg],3.56
+Medical History,C0262926,[fndg],3.56
+Syncope,C0039070,[sosy],3.46
+Abdominal Pain,C0000737,[sosy],5.18
+"Abdominal Pain, CTCAE 5",C4554323,[fndg],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Symptom:Find:Pt:^Patient:Nom,C3854129,[clna],3.55
+Symptoms,C1457887,[sosy],3.55
+Different,C1705242,[qlco],3.43
+Condition,C0348080,[qlco],3.41
+Condition Domain,C4722256,[inpr],3.41
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.41
+Disease,C0012634,[dsyn],3.41
+Logical Condition,C1705253,[cnce],3.41
+Chronic condition,C4315615,[fndg],5.18
+Chronic disease,C0008679,[dsyn],5.18
+Elevated,C3163633,[qlco],5.18
+High,C0205250,[qlco],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+Blood Pressure,C0005823,[orgf],3.75
+Blood pressure finding,C1271104,[fndg],3.75
+Systemic arterial pressure,C1272641,[fndg],3.75
+EntityNameUseR2 <temporary>,C3245481,[inpr],3.50
+Job Status - Temporary,C1548539,[idcn],3.50
+Transitory,C0205374,[tmco],3.50
+Negation,C1518422,[ftcn],5.18
+Patients,C0030705,[podg],5.18
+Cancer Genus,C0998265,[euka],3.82
+Malignant Neoplasms,C0006826,[neop],3.82
+Primary malignant neoplasm,C1306459,[neop],3.82
+Chest mass,C0347941,[fndg],3.62
+Depressed mood,C0344315,[mobd],5.18
+Depression - recess,C4085311,[qlco],5.18
+Depression Scale (BASC-2),C4049644,[inpr],5.18
+Depression Subordinate Domain,C4084909,[inpr],5.18
+Depression Visual Analogue Scale,C4553827,[inpr],5.18
+Depression motion,C0460137,[ftcn],5.18
+Depressive disorder,C0011581,[mobd],5.18
+Fatigue,C0015672,[sosy],5.18
+Fatigue Subordinate Domain,C4050243,[inpr],5.18
+"Fatigue, CTCAE 5.0",C4554645,[fndg],5.18
+Feel Fatigue,C3463815,[inpr],5.18
+Mental Depression,C0011570,[mobd],5.18
+Patients,C0030705,[podg],5.18
+Condition,C0348080,[qlco],3.98
+Condition Domain,C4722256,[inpr],3.98
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.98
+Disease,C0012634,[dsyn],3.98
+Experience,C0596545,[menp],3.98
+Logical Condition,C1705253,[cnce],3.98
+Practice Experience,C0237607,[menp],3.98
+Symptom:Find:Pt:^Patient:Nom,C3854129,[clna],3.57
+Symptoms,C1457887,[sosy],3.57
+Anemia,C0002871,[dsyn],3.44
+"Anemia, CTCAE",C4554633,[fndg],3.44
+Genus Anemia,C1000483,[plnt],3.44
+Abnormal,C0205161,[fndg],5.18
+Abnormal Reference Range,C2699333,[inpr],5.18
+Abnormality,C1704258,[fndg],5.18
+Causing,C0678227,[ftcn],5.18
+Percent of Abnormal Cells,C2347472,[qnco],5.18
+blood test result,C0849535,[lbtr],3.60
+Arthralgia,C0003862,[sosy],5.18
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Disease,C0012634,[dsyn],5.18
+"Joint Pain, CTCAE 3",C1963066,[fndg],5.18
+Level of Joint Pain,C4085641,[inpr],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Due to,C0678226,[ftcn],3.64
+Arthritis,C0003864,[dsyn],3.57
+"Arthritis, CTCAE",C4552845,[fndg],3.57
+Immunogenicity Specimen Assessments Domain,C3812801,[inpr],3.57
+International Scale for BCR-ABL1 Measurement,C4283815,[inpr],3.57
+Intrasynovial,C4049761,[spco],3.57
+Communicable Diseases,C0009450,[dsyn],5.18
+Infection,C3714514,[patf],5.18
+Patients,C0030705,[podg],5.18
+Due to,C0678226,[ftcn],3.61
+Exanthema,C0015230,[sosy],3.60
+Have a Skin Rash,C4318484,[inpr],3.60
+Allergic Reaction,C1527304,[patf],3.56
+Allergic disposition,C3539909,[fndg],3.56
+Allergy Specialty,C0002111,[bmod],3.56
+Hypersensitivity,C0020517,[patf],3.56
+Immunogenicity Specimen Assessments Domain,C3812801,[inpr],3.56
+International Scale for BCR-ABL1 Measurement,C4283815,[inpr],3.56
+Intrasynovial,C4049761,[spco],3.56
+Response to antigens,C1314973,[phsf],3.56
+Migraine Disorders,C0149931,[dsyn],5.18
+Patients,C0030705,[podg],5.18
+Tension Headache,C0033893,[dsyn],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+History of headache,C1960629,[fndg],3.75
+ARCN1 gene,C1412502,[gngm],5.18
+Chronic Obstructive Airway Disease,C0024117,[dsyn],5.18
+Chronic obstructive pulmonary disease of horses,C3714496,[dsyn],5.18
+Dyspnea,C0013404,[sosy],5.18
+Have Shortness of Breath question,C3274920,[inpr],5.18
+How Much Distress Shortness of Breath,C4084764,[inpr],5.18
+How Often Shortness of Breath,C4084763,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Respiration Disorders,C0035204,[dsyn],5.18
+Respiratory Tract Diseases,C0035242,[dsyn],5.18
+Shortness of Breath Visual Analogue Scale,C4553552,[inpr],5.18
+Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],5.18
+Usual Severity Shortness of Breath,C4084762,[inpr],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Due to,C0678226,[ftcn],3.64
+Asthma,C0004096,[dsyn],3.57
+Asthma Pathway,C2984299,[cnce],3.57
+Biospecimen Events Domain,C3811654,[inpr],3.57
+Exist,C2987476,[qlco],3.57
+Dizziness,C0012833,[sosy],5.18
+"Dizziness, CTCAE 3.0",C1963093,[fndg],5.18
+"Dizziness, CTCAE 5.0",C4553830,[fndg],5.18
+Have Dizziness,C4084788,[inpr],5.18
+How Much Distress Dizziness,C4085549,[inpr],5.18
+How Often Dizzy,C4085547,[inpr],5.18
+Hypotension,C0020649,[fndg],5.18
+Patients,C0030705,[podg],5.18
+Usual Severity Dizziness,C4085548,[inpr],5.18
+Vertigo,C0042571,[sosy],5.18
+Condition,C0348080,[qlco],3.98
+Condition Domain,C4722256,[inpr],3.98
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.98
+Disease,C0012634,[dsyn],3.98
+Experience,C0596545,[menp],3.98
+Logical Condition,C1705253,[cnce],3.98
+Practice Experience,C0237607,[menp],3.98
+Due to,C0678226,[ftcn],3.59
+Ear problem,C0262174,[fndg],3.59
+Labyrinth,C0022889,[bpoc],3.59
+Biospecimen Events Domain,C3811654,[inpr],3.55
+Exist,C2987476,[qlco],3.55
+Internal,C0205102,[spco],3.55
+Problems - What subject filter,C1546466,[idcn],3.55
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Disease,C0012634,[dsyn],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Family history of heart disease,C2186266,[fndg],3.85
+American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],3.64
+High Risk Acute Leukemia,C4050568,[fndg],3.64
+High risk,C4319571,[fndg],3.64
+High risk of,C0332167,[fndg],3.64
+IPSS-R Risk Category High,C5202936,[fndg],3.64
+International Prognostic Index High Risk Group,C5202937,[fndg],3.64
+are unit of measure,C1551058,[qnco],3.57
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Disease,C0012634,[dsyn],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+Due to,C0678226,[ftcn],3.64
+Concept History,C1705255,[cnce],3.57
+Epilepsy,C0014544,[dsyn],3.57
+Historical aspects qualifier,C0019665,[ftcn],3.57
+History,C0019664,[ocdi],3.57
+History of present illness,C0262512,[fndg],3.57
+History of previous events,C2004062,[fndg],3.57
+Medical History,C0262926,[fndg],3.57
+are unit of measure,C1551058,[qnco],3.57
+Seizures,C0036572,[sosy],3.44
+Administration procedure,C1533734,[topp],5.18
+Biomaterial Treatment,C1705169,[cnce],5.18
+IMPACT gene,C1825598,[gngm],5.18
+Impact,C4049986,[qlco],5.18
+Patients,C0030705,[podg],5.18
+Therapeutic procedure,C0087111,[topp],5.18
+Treating,C1522326,[ftcn],5.18
+Treatment Epoch,C3538994,[resa],5.18
+therapeutic aspects,C0039798,[ftcn],5.18
+treatment - ActInformationManagementReason,C3887704,[hlca],5.18
+History of substance abuse,C1299544,[fndg],3.81
+Recovery - action,C0237820,[acty],3.57
+Recovery - healing process,C2004454,[orgf],3.57
+recovery - adjustment,C1555688,[qnco],3.57
+Condition,C0348080,[qlco],3.42
+Condition Domain,C4722256,[inpr],3.42
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.42
+Disease,C0012634,[dsyn],3.42
+Logical Condition,C1705253,[cnce],3.42
+"Feet, unit of measurement",C0347981,[qnco],5.18
+Foot,C0016504,[bpoc],5.18
+Hypesthesia,C0020580,[fndg],5.18
+Numbness,C0028643,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Peripheral Nervous System Diseases,C4721453,[dsyn],5.18
+Peripheral Neuropathy,C0031117,[dsyn],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Paresthesia of hand,C0239836,[sosy],3.62
+Increase,C0442805,[ftcn],5.18
+Increased,C0205217,[qlco],5.18
+Patients,C0030705,[podg],5.18
+Diagnosis,C0011900,[diap],3.59
+Osteoporosis,C0029456,[dsyn],3.59
+"Osteoporosis, CTCAE 5.0",C4554622,[fndg],3.59
+Risk,C0035647,[idcn],3.56
+Subject Risk,C4552904,[cnce],3.56
+Fracture,C0016658,[inpo],3.48
+Hyperthyroidism,C0020550,[dsyn],5.18
+"Hyperthyroidism, CTCAE",C4551916,[fndg],5.18
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Finding of hormone level,C1287355,[lbpr],3.60
+Levels (qualifier value),C0441889,[qlco],3.56
+Thyroid Hormones,C0040135,[horm],3.46
+Elevated,C3163633,[qlco],3.43
+High,C0205250,[qlco],3.43
+THYROID DIAGNOSTIC RADIOPHARMACEUTICALS,C3540038,[irda],3.43
+Thyroid Gland,C0040132,[bpoc],3.43
+Current (present time),C0521116,[tmco],5.18
+Dyspnea,C0013404,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Respiratory distress,C0476273,[sosy],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: heart failure,C0455531,[fndg],3.81
+Patient Outcome - Worsening,C1546960,[idcn],3.56
+Worse,C1457868,[fndg],3.56
+Worsening pattern,C0332271,[qlco],3.56
+Condition,C0348080,[qlco],3.43
+Condition Domain,C4722256,[inpr],3.43
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.43
+Disease,C0012634,[dsyn],3.43
+Logical Condition,C1705253,[cnce],3.43
+Make - Instruction Imperative,C1881534,[ftcn],5.18
+Patients,C0030705,[podg],5.18
+Family history of cancer of colon,C0730200,[fndg],3.85
+Old,C0580836,[tmco],3.61
+Candidate,C4527371,[cnce],3.55
+50%,C3842586,[qnco],3.47
+<50,C3843766,[fndg],3.47
+During,C0347984,[tmco],3.47
+Over (spatial),C0205136,[spco],3.47
+PSA Level Greater than Fifty,C4084918,[cnce],3.47
+year,C0439234,[tmco],3.47
+Screening colonoscopy,C1882982,[diap],3.45
+Back Pain,C0004604,[sosy],5.18
+"Back Pain, CTCAE 3.0",C1963071,[fndg],5.18
+"Back Pain, CTCAE 5.0",C4553945,[fndg],5.18
+Causing,C0678227,[ftcn],5.18
+Show,C1547282,[anim],3.98
+Blood Products Laboratory Testing,C3831328,[lbpr],3.68
+Laboratory Procedures,C0022885,[lbpr],3.68
+Symptoms,C1457887,[sosy],3.68
+Symptoms aspect,C0683368,[ftcn],3.68
+Test - temporal region,C4318744,[blor],3.68
+Test Result,C0456984,[lbtr],3.68
+Testing,C0039593,[ftcn],3.68
+Tests (qualifier value),C0392366,[inpr],3.68
+"Disk, Herniated",C0242362,[acab],3.57
+Intervertebral Disk Displacement,C0021818,[dsyn],3.57
+Diagnostic Imaging,C0011923,[diap],3.50
+Imaging Techniques,C0079595,[diap],3.50
+Sciatica,C0036396,[sosy],3.50
+Neuron spine,C2752558,[celc],3.42
+Patients,C0030705,[podg],3.42
+Vertebral column,C0037949,[bpoc],3.42
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+History of malignant neoplasm of skin,C1998317,[fndg],3.81
+Personal history of primary malignant neoplasm of skin,C1387403,[fndg],3.81
+Benign melanocytic nevus,C1456781,[neop],3.68
+DUOXA1 gene,C1824986,[gngm],3.68
+Melanocytic nevus of skin,C3665593,[neop],3.68
+"Mole, unit of measurement",C0439189,[qnco],3.68
+Nevus,C0027960,[neop],3.68
+Recurrence,C0034897,[phpr],3.68
+Recurrence (disease attribute),C2825055,[patf],3.68
+Recurrent Malignant Neoplasm,C1458156,[neop],3.68
+Talpidae,C0324740,[mamm],3.68
+Appearance,C0700364,[qlco],3.59
+Appearance Distress Question,C4084721,[inpr],3.59
+Changed status,C0443172,[qnco],3.59
+Changing,C0392747,[ftcn],3.59
+Personal appearance,C0233426,[orga],3.59
+New,C0205314,[qlco],3.50
+Newar Language,C4724144,[lang],3.50
+Potential,C3245505,[qlco],3.50
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Diabetes,C0011847,[dsyn],5.18
+Diabetes Mellitus,C0011849,[dsyn],5.18
+Disease,C0012634,[dsyn],5.18
+Increase,C0442805,[ftcn],5.18
+Increased,C0205217,[qlco],5.18
+Increased frequency of micturition,C0042023,[fndg],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Thirst,C0039971,[phsf],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Intervention regimes,C1273869,[hlca],5.18
+Interventional procedure,C0184661,[topp],5.18
+Nursing interventions,C0886296,[hlca],5.18
+Patients,C0030705,[podg],5.18
+Self-Injurious Behavior,C0085271,[inbe],5.18
+Self-harm,C0424366,[fndg],5.18
+Attention,C0004268,[menp],3.68
+Attention G-code,C4281780,[inpr],3.68
+Depressed mood,C0344315,[mobd],3.59
+Depression - recess,C4085311,[qlco],3.59
+Depression Scale (BASC-2),C4049644,[inpr],3.59
+Depression Subordinate Domain,C4084909,[inpr],3.59
+Depression Visual Analogue Scale,C4553827,[inpr],3.59
+Depression motion,C0460137,[ftcn],3.59
+Depressive disorder,C0011581,[mobd],3.59
+Diagnosis,C0011900,[diap],3.59
+Mental Depression,C0011570,[mobd],3.59
+"Thinking, function",C0039869,[menp],3.57
+Thought,C4319827,[idcn],3.57
+Immediate,C0205253,[tmco],3.50
+Stat (do immediately),C0205548,[tmco],3.50
+Current (present time),C0521116,[tmco],3.44
+Experience,C0596545,[menp],3.42
+Practice Experience,C0237607,[menp],3.42
+Hyperkinesia,C3887506,[dsyn],5.18
+Patients,C0030705,[podg],5.18
+Spasm,C0037763,[sosy],5.18
+Weakness,C3714552,[sosy],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+nervous system disorder,C0027765,[dsyn],3.58
+MS gene,C1417325,[gngm],3.44
+Multiple Sclerosis,C0026769,[dsyn],3.44
+Anemia,C0002871,[dsyn],5.18
+"Anemia, CTCAE",C4554633,[fndg],5.18
+Genus Anemia,C1000483,[plnt],5.18
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Iron level result,C0428578,[lbtr],3.62
+Iron measurement,C0337439,[lbpr],3.62
+HEMOGLOBIN S PHENOTYPE,C3888302,[fndg],3.58
+Sickle Cell Trait,C0037054,[dsyn],3.58
+Sickle Hemoglobin,C0019043,"[aapp,bacs]",3.58
+Levels (qualifier value),C0441889,[qlco],3.57
+Iron low,C0860975,[fndg],3.47
+IPSS Risk Category Low,C4522223,[inpr],3.44
+IPSS-R Risk Category Low,C5203106,[fndg],3.44
+Low Level,C4321351,[fndg],3.44
+Low Mitosis-Karyorrhexis Index,C3890211,[qnco],3.44
+low,C0205251,[qlco],3.44
+low confidentiality,C1550472,[inpr],3.44
+low exposure,C4048187,[qlco],3.44
+Blood,C0005767,[bdsu],3.43
+In Blood,C0005768,[bdsu],3.43
+Patients,C0030705,[podg],3.43
+peripheral blood,C0229664,[bdsu],3.43
+Abdominal Pain,C0000737,[sosy],5.18
+"Abdominal Pain, CTCAE 5",C4554323,[fndg],5.18
+Bleeding ulcer,C0333291,[dsyn],5.18
+Current (present time),C0521116,[tmco],5.18
+Feces color: tarry,C0474585,[sosy],5.18
+Melena,C0025222,[patf],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: gastric ulcer,C0559165,[fndg],3.79
+Patients,C0030705,[podg],5.18
+Family history of Parkinson's disease,C0574092,[fndg],3.88
+Tremor,C0040822,[sosy],3.63
+Onset of illness,C0277793,[tmco],3.60
+Has difficulty doing (qualifier value),C1299586,[fndg],3.59
+Current (present time),C0521116,[tmco],3.48
+Experience,C0596545,[menp],3.45
+Practice Experience,C0237607,[menp],3.45
+Movement,C0026649,[orgf],3.45
+Administration procedure,C1533734,[topp],5.18
+Biomaterial Treatment,C1705169,[cnce],5.18
+Therapeutic procedure,C0087111,[topp],5.18
+Treating,C1522326,[ftcn],5.18
+Treatment Epoch,C3538994,[resa],5.18
+therapeutic aspects,C0039798,[ftcn],5.18
+treatment - ActInformationManagementReason,C3887704,[hlca],5.18
+Show,C1547282,[anim],3.98
+Cancer Genus,C0998265,[euka],3.82
+Malignant Neoplasms,C0006826,[neop],3.82
+Primary malignant neoplasm,C1306459,[neop],3.82
+Blood Products Laboratory Testing,C3831328,[lbpr],3.68
+Evaluation,C0220825,[hlca],3.68
+Evaluation procedure,C1261322,[hlca],3.68
+Laboratory Procedures,C0022885,[lbpr],3.68
+Test - temporal region,C4318744,[blor],3.68
+Test Result,C0456984,[lbtr],3.68
+Testing,C0039593,[ftcn],3.68
+Tests (qualifier value),C0392366,[inpr],3.68
+Renal mass,C0262613,[fndg],3.57
+Diagnostic Imaging,C0011923,[diap],3.50
+Further,C1517331,[spco],3.50
+Imaging Techniques,C0079595,[diap],3.50
+Patients,C0030705,[podg],3.42
+Administration occupational activities,C0001554,[ocac],5.18
+Disease Management,C0376636,[hlca],5.18
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+Management Occupations,C3273539,[ocdi],5.18
+Management procedure,C1273870,[ocac],5.18
+PREVENT (product),C0309872,[phsu],5.18
+Patients,C0030705,[podg],5.18
+To,C1883351,[qlco],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+"Chronic Kidney Disease, CTCAE",C4553188,[fndg],3.68
+Chronic Kidney Diseases,C1561643,[dsyn],3.68
+Monitoring - action,C1283169,[hlca],3.68
+Preventive monitoring,C0150369,[hlca],3.68
+Kidney damage,C1408258,[fndg],3.58
+Diagnosis,C0011900,[diap],3.56
+Continuous,C0549178,[idcn],3.50
+Further,C1517331,[spco],3.43
+Cardiovascular Diseases,C0007222,[dsyn],5.18
+Chest discomfort,C0235710,[sosy],5.18
+Dyspnea,C0013404,[sosy],5.18
+Have Shortness of Breath question,C3274920,[inpr],5.18
+How Much Distress Shortness of Breath,C4084764,[inpr],5.18
+How Often Shortness of Breath,C4084763,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Pulmonary Embolism,C0034065,[patf],5.18
+Shortness of Breath Visual Analogue Scale,C4553552,[inpr],5.18
+Shortness of breath:-:Point in time:^Patient:-,C2707305,[clna],5.18
+Usual Severity Shortness of Breath,C4084762,[inpr],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Disease,C0012634,[dsyn],5.18
+Liver damage,C0151763,[patf],5.18
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Elevated liver enzymes level,C0857093,[fndg],3.70
+Patients,C0030705,[podg],5.18
+Social withdrawal,C0424095,[fndg],5.18
+H/O: depression,C0455503,[fndg],3.77
+Feeling hopeless,C0150041,[menp],3.67
+Approach,C0449445,[spco],3.61
+Administration procedure,C1533734,[topp],3.47
+Biomaterial Treatment,C1705169,[cnce],3.47
+Change -- procedure,C4319952,[topp],3.47
+Changed status,C0443172,[qnco],3.47
+Changing,C0392747,[ftcn],3.47
+Delta (difference),C1705241,[qnco],3.47
+Therapeutic procedure,C0087111,[topp],3.47
+Treating,C1522326,[ftcn],3.47
+Treatment Epoch,C3538994,[resa],3.47
+therapeutic aspects,C0039798,[ftcn],3.47
+treatment - ActInformationManagementReason,C3887704,[hlca],3.47
+Current (present time),C0521116,[tmco],3.43
+Experience,C0596545,[menp],3.41
+Practice Experience,C0237607,[menp],3.41
+Diarrhea,C0011991,[sosy],7.04
+Abdomen distended,C0000731,[fndg],5.18
+Abdominal bloating,C1291077,[sosy],5.18
+"Bloating, CTCAE",C4553115,[fndg],5.18
+Current (present time),C0521116,[tmco],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Family history of celiac disease,C2316251,[fndg],3.85
+Digestive symptom,C0476288,[sosy],3.61
+Presence (property),C3854307,[qlco],3.56
+Present,C0150312,[fndg],3.56
+Providing presence (regime/therapy),C0392148,[topp],3.56
+Condition,C0348080,[qlco],3.43
+Condition Domain,C4722256,[inpr],3.43
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.43
+"Diarrhea, CTCAE",C1963091,[fndg],3.43
+Digestion,C0012238,[orgf],3.43
+Disease,C0012634,[dsyn],3.43
+Gastrointestinal system,C0012240,[bdsy],3.43
+Have Diarrhea,C3641756,[inpr],3.43
+How Much Distress Diarrhea,C4084784,[inpr],3.43
+How Often Diarrhea,C4085317,[inpr],3.43
+Logical Condition,C1705253,[cnce],3.43
+Usual Severity Diarrhea,C4084802,[inpr],3.43
+Abnormal vision,C3665386,[fndg],5.18
+Administration procedure,C1533734,[topp],5.18
+Biomaterial Treatment,C1705169,[cnce],5.18
+Blindness,C0456909,[dsyn],5.18
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+PREVENT (product),C0309872,[phsu],5.18
+Patients,C0030705,[podg],5.18
+Therapeutic procedure,C0087111,[topp],5.18
+To,C1883351,[qlco],5.18
+Treating,C1522326,[ftcn],5.18
+Treatment Epoch,C3538994,[resa],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+Unspecified visual loss,C3665346,[sosy],5.18
+Visual Impairment,C3665347,[fndg],5.18
+therapeutic aspects,C0039798,[ftcn],5.18
+treatment - ActInformationManagementReason,C3887704,[hlca],5.18
+Monitoring - action,C1283169,[hlca],3.68
+Preventive monitoring,C0150369,[hlca],3.68
+Diagnosis,C0011900,[diap],3.59
+Glaucoma,C0017601,[dsyn],3.59
+Glaucoma (eukaryote),C0997768,[euka],3.59
+"Glaucoma, CTCAE",C1962986,[fndg],3.59
+Continuous,C0549178,[idcn],3.50
+Coordinated,C0700114,[ftcn],5.18
+Patients,C0030705,[podg],5.18
+Physiologic Coordination,C0242414,[phsf],5.18
+nervous system disorder,C0027765,[dsyn],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Ear problem,C0262174,[fndg],3.75
+Difficulty balancing,C1744587,[fndg],3.68
+Problem,C0033213,[fndg],3.63
+Problem:Find:Pt:^Patient:Nom,C3854081,[clna],3.63
+Labyrinth,C0022889,[bpoc],3.53
+Internal,C0205102,[spco],3.48
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+heart disease risk,C1113667,[fndg],3.62
+Cholesterol level test result,C0428466,[lbtr],3.62
+Cholesterol measurement test,C0201950,[lbpr],3.62
+blood triglycerides,C0518018,[lbpr],3.58
+Levels (qualifier value),C0441889,[qlco],3.57
+Increase,C0442805,[ftcn],3.55
+Increased,C0205217,[qlco],3.55
+Hypercholesterolemia,C0020443,[dsyn],3.47
+Elevated,C3163633,[qlco],3.44
+High,C0205250,[qlco],3.44
+DIAPH3 wt Allele,C4321249,[gngm],3.43
+Patients,C0030705,[podg],3.43
+Current (present time),C0521116,[tmco],5.18
+Disease,C0012634,[dsyn],5.18
+Icterus,C0022346,[sosy],5.18
+"Liver Pain, CTCAE",C1963161,[fndg],5.18
+Liver damage,C0151763,[patf],5.18
+Liver pain,C0522067,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+H/O: alcoholism,C0455500,[fndg],3.77
+Angina Pectoris,C0002962,[sosy],5.18
+Cardiovascular Diseases,C0007222,[dsyn],5.18
+Chest Pain,C0008031,[sosy],5.18
+Chest pain:Finding:Point in time:^Patient:Ordinal,C2926613,[clna],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Exercise,C0015259,[dora],3.64
+Physical activity,C0026606,[dora],3.64
+Exacerbated,C1444749,[qlco],3.57
+Symptom aggravating factors,C0436331,[fndg],3.57
+Bothered by Weight Gain,C4084773,[inpr],5.18
+Current (present time),C0521116,[tmco],5.18
+Fatigue,C0015672,[sosy],5.18
+Fatigue Subordinate Domain,C4050243,[inpr],5.18
+"Fatigue, CTCAE 5.0",C4554645,[fndg],5.18
+Feel Fatigue,C3463815,[inpr],5.18
+Have Gained Weight,C3889988,[inpr],5.18
+Hypothyroidism,C0020676,[dsyn],5.18
+Patients,C0030705,[podg],5.18
+Weight Gain,C0043094,[fndg],5.18
+"Weight Gain, CTCAE",C2911647,[fndg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+history (of) disease family,C0850707,[fndg],3.68
+THYROID DIAGNOSTIC RADIOPHARMACEUTICALS,C3540038,[irda],3.43
+Thyroid Gland,C0040132,[bpoc],3.43
+GDC Treatment Outcome Terminology,C5202850,[inpr],5.18
+To,C1883351,[qlco],5.18
+Tryptophanase,C0041260,"[aapp,enzy]",5.18
+Show,C1547282,[anim],3.98
+Cancer Genus,C0998265,[euka],3.82
+Malignant Neoplasms,C0006826,[neop],3.82
+Primary malignant neoplasm,C1306459,[neop],3.82
+Blood Products Laboratory Testing,C3831328,[lbpr],3.68
+Evaluation,C0220825,[hlca],3.68
+Evaluation procedure,C1261322,[hlca],3.68
+Laboratory Procedures,C0022885,[lbpr],3.68
+Test - temporal region,C4318744,[blor],3.68
+Test Result,C0456984,[lbtr],3.68
+Testing,C0039593,[ftcn],3.68
+Tests (qualifier value),C0392366,[inpr],3.68
+Mass in breast,C0024103,[fndg],3.60
+Diagnostic Imaging,C0011923,[diap],3.50
+Further,C1517331,[spco],3.50
+Imaging Techniques,C0079595,[diap],3.50
+Patients,C0030705,[podg],3.42
+Current (present time),C0521116,[tmco],5.18
+Intervention regimes,C1273869,[hlca],5.18
+Interventional procedure,C0184661,[topp],5.18
+Nursing interventions,C0886296,[hlca],5.18
+Patients,C0030705,[podg],5.18
+manic symptom,C0746402,[mobd],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Attention,C0004268,[menp],3.68
+Attention G-code,C4281780,[inpr],3.68
+Bipolar Disorder,C0005586,[mobd],3.64
+Diagnosis,C0011900,[diap],3.57
+Immediate,C0205253,[tmco],3.50
+Stat (do immediately),C0205548,[tmco],3.50
+Cerebrovascular accident,C0038454,[dsyn],5.18
+Languages,C0023008,[lang],5.18
+Patients,C0030705,[podg],5.18
+"Stroke, CTCAE",C4554100,[fndg],5.18
+nervous system disorder,C0027765,[dsyn],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Speech impairment,C0233715,[fndg],3.68
+Inflammatory disorder,C1290884,[dsyn],5.18
+laboratory results,C1254595,[lbtr],5.18
+Show,C1547282,[anim],3.98
+Levels (qualifier value),C0441889,[qlco],3.56
+Presence (property),C3854307,[qlco],3.56
+Present,C0150312,[fndg],3.56
+Providing presence (regime/therapy),C0392148,[topp],3.56
+Elevated inflammatory markers,C3276087,[fndg],3.49
+Autoimmune,C4551524,[ftcn],3.43
+Autoimmune reaction,C0443146,[patf],3.43
+Hyperthyroidism,C0020550,[dsyn],5.18
+"Hyperthyroidism, CTCAE",C4551916,[fndg],5.18
+Hypothyroidism,C0020676,[dsyn],5.18
+"Hypothyroidism, CTCAE",C4553310,[fndg],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+Concept History,C1705255,[cnce],3.56
+Historical aspects qualifier,C0019665,[ftcn],3.56
+History,C0019664,[ocdi],3.56
+History of present illness,C0262512,[fndg],3.56
+History of previous events,C2004062,[fndg],3.56
+Medical History,C0262926,[fndg],3.56
+Thyroid Alteration,C0851024,[fndg],3.46
+Dehydration,C0011175,[dsyn],5.18
+Dehydration procedure,C4284399,[lbpr],5.18
+Hyperkinesia,C3887506,[dsyn],5.18
+Patients,C0030705,[podg],5.18
+Spasm,C0037763,[sosy],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Due to,C0678226,[ftcn],3.59
+nervous system disorder,C0027765,[dsyn],3.59
+Biospecimen Events Domain,C3811654,[inpr],3.55
+Exist,C2987476,[qlco],3.55
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Disease,C0012634,[dsyn],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+Family history of cancer of colon,C0730200,[fndg],3.85
+American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],3.64
+High Risk Acute Leukemia,C4050568,[fndg],3.64
+High risk,C4319571,[fndg],3.64
+High risk of,C0332167,[fndg],3.64
+IPSS-R Risk Category High,C5202936,[fndg],3.64
+International Prognostic Index High Risk Group,C5202937,[fndg],3.64
+are unit of measure,C1551058,[qnco],3.57
+Due to,C0678226,[ftcn],7.24
+Exposure to,C0332157,[qlco],7.23
+Medical Condition,C4745084,[fndg],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Tinnitus,C0040264,[dsyn],3.71
+Noise,C0028263,[phpr],3.68
+Biospecimen Events Domain,C3811654,[inpr],3.57
+Due,C3146286,[idcn],3.57
+Exist,C2987476,[qlco],3.57
+Injury due to exposure to external cause,C0274281,[inpo],3.57
+Loudness,C0178733,[qlco],3.50
+Benign,C0205183,[qlco],5.18
+Patients,C0030705,[podg],5.18
+Cancer Genus,C0998265,[euka],3.82
+Malignant Neoplasms,C0006826,[neop],3.82
+Primary malignant neoplasm,C1306459,[neop],3.82
+History of malignant neoplasm of skin,C1998317,[fndg],3.81
+Personal history of primary malignant neoplasm of skin,C1387403,[fndg],3.81
+Lesion,C0221198,[fndg],3.68
+Specimen Source Codes - Lesion,C1546698,[inpr],3.68
+Current (present time),C0521116,[tmco],3.50
+Electrical Current,C1705970,[npop],3.50
+Hypesthesia,C0020580,[fndg],5.18
+Numbness,C0028643,[sosy],5.18
+Patients,C0030705,[podg],5.18
+Condition,C0348080,[qlco],3.98
+Condition Domain,C4722256,[inpr],3.98
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],3.98
+Disease,C0012634,[dsyn],3.98
+Experience,C0596545,[menp],3.98
+Logical Condition,C1705253,[cnce],3.98
+Practice Experience,C0237607,[menp],3.98
+Due to,C0678226,[ftcn],3.61
+Nerve injury,C0161479,[inpo],3.61
+Has tingling sensation,C2242996,[sosy],3.57
+Paresthesia,C0030554,[dsyn],3.57
+Biospecimen Events Domain,C3811654,[inpr],3.56
+Exist,C2987476,[qlco],3.56
+All extremities,C0278454,[bpoc],3.44
+Limb structure,C0015385,[bpoc],3.44
+Condition,C0348080,[qlco],5.18
+Condition Domain,C4722256,[inpr],5.18
+Condition:Find:Pt:^Patient:Nom,C3864998,[clna],5.18
+Disease,C0012634,[dsyn],5.18
+Logical Condition,C1705253,[cnce],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+history (of) disease family,C0850707,[fndg],3.68
+American College of Cardiology/American Heart Association Lesion Complexity Score C,C3272283,[fndg],3.64
+High Risk Acute Leukemia,C4050568,[fndg],3.64
+High risk,C4319571,[fndg],3.64
+High risk of,C0332167,[fndg],3.64
+IPSS-R Risk Category High,C5202936,[fndg],3.64
+International Prognostic Index High Risk Group,C5202937,[fndg],3.64
+are unit of measure,C1551058,[qnco],3.57
+Autoimmune,C4551524,[ftcn],3.43
+Autoimmune reaction,C0443146,[patf],3.43
+Alopecia,C0002170,[dsyn],5.18
+Have Hair Loss,C4084793,[inpr],5.18
+How Much Distress Hair Loss,C4084894,[inpr],5.18
+How Often Hair Loss,C4084893,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Usual Severity Hair Loss,C4084792,[inpr],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Adverse reaction to drug,C0041755,[patf],3.65
+Has shown side effects from medication,C2364092,[fndg],3.65
+Due to,C0678226,[ftcn],3.59
+Medical Condition,C4745084,[fndg],3.59
+Biospecimen Events Domain,C3811654,[inpr],3.55
+Exist,C2987476,[qlco],3.55
+Anxiety,C0003467,[mobd],5.18
+Anxiety Disorders,C0003469,[mobd],5.18
+Anxiety Scale (BASC-2),C4050613,[inpr],5.18
+Anxiety Visual Analogue Scale,C4553381,[inpr],5.18
+"Anxiety, CTCAE 5.0",C4552735,[fndg],5.18
+Patients,C0030705,[podg],5.18
+Uncertain - Response,C4085655,[fndg],5.18
+Uncertainty,C0087130,[fndg],5.18
+History of palpitations,C3532616,[fndg],3.65
+Due to,C0678226,[ftcn],3.59
+Heart condition,C3842523,[fndg],3.59
+are unit of measure,C1551058,[qnco],3.55
+Heart,C0018787,[bpoc],3.43
+Abdomen distended,C0000731,[fndg],5.18
+Abdominal bloating,C1291077,[sosy],5.18
+Discomfort,C2364135,[sosy],5.18
+Food intolerance (disorder),C0149696,[dsyn],5.18
+How Often Experienced Abdominal Bloating,C4554320,[inpr],5.18
+Patients,C0030705,[podg],5.18
+Experience,C0596545,[menp],3.98
+Practice Experience,C0237607,[menp],3.98
+Digestive System Disorders,C0012242,[dsyn],3.59
+Due to,C0678226,[ftcn],3.59
+Biospecimen Events Domain,C3811654,[inpr],3.55
+Exist,C2987476,[qlco],3.55
