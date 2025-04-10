@@ -1,4 +1,3 @@
-import pickle
 import warnings
 
 import pandas as pd
@@ -6,6 +5,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
+import fickling
 
 warnings.filterwarnings('ignore')
 
@@ -40,7 +40,7 @@ def process(inp):
 
 
 with open('PICO_Classifier_RF', 'rb') as f:
-    model = pickle.load(f)
+    model = fickling.load(f)
 
 questions = ["What causes depression?", "how can i treat depression?", "is depression chronic",
              "What does it feel like to have depression?"]
